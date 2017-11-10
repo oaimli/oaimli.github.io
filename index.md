@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](README).
+[Link to another page](https://github.com/seektech).
 
 There should be whitespace between paragraphs.
 
