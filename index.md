@@ -8,6 +8,8 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to CSDN page](http://blog.csdn.net/u013413471).
 
+[Link to blog example](README).
+
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
