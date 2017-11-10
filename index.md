@@ -4,7 +4,9 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](https://github.com/seektech).
+[Link to GitHub page](https://github.com/seektech).
+
+[Link to CSDN page](http://blog.csdn.net/u013413471).
 
 There should be whitespace between paragraphs.
 
