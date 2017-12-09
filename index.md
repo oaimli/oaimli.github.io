@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+![Miao LI](https://github.com/seektech/seektech.github.io/blob/master/source/avatar.png "Miao LI")
+
 
 [Link to GitHub page](https://github.com/seektech). 
 
