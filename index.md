@@ -8,7 +8,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to CSDN page](http://blog.csdn.net/u013413471).
 
-[Link to blog example](2017111001).
+[Link to blog example](2017120901).
 
 There should be whitespace between paragraphs.
 
