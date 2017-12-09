@@ -2,14 +2,13 @@
 layout: default
 ---
 
-
 [Link to GitHub page](https://github.com/seektech). 
 
 [Link to CSDN page](http://blog.csdn.net/u013413471).
 
 [Link to Chinese Resume](https://github.com/seektech/Resume-MiaoLI/blob/master/AwesomeCV_CH/resume.pdf).
 
-[Link to Chinese Resume](https://github.com/seektech/Resume-MiaoLI/blob/master/AwesomeCV_EN/resume.pdf).
+[Link to English Resume](https://github.com/seektech/Resume-MiaoLI/blob/master/AwesomeCV_EN/resume.pdf).
 
 There should be whitespace between paragraphs.
 
