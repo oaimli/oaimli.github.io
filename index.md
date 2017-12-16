@@ -1,28 +1,25 @@
 ---
 layout: default
 ---
-![Miao LI](https://github.com/seektech/seektech.github.io/blob/master/source/avatar.png "Miao LI")
+![](https://github.com/seektech/seektech.github.io/blob/master/source/avatar.png "Miao LI")
+
+**Miao LI**  
+
+Graduate Student （2017-2020） in Institute of Software, Chinese Academy of Sciences
+
+seektech@126.com 18810707818
+
+[GitHub page](https://github.com/seektech).       [CSDN page](http://blog.csdn.net/u013413471).       [Chinese Resume](https://github.com/seektech/Resume-MiaoLI/blob/master/AwesomeCV_CH/resume.pdf).       [English Resume](https://github.com/seektech/Resume-MiaoLI/blob/master/AwesomeCV_EN/resume.pdf).
 
 
-[Link to GitHub page](https://github.com/seektech). 
 
-[Link to CSDN page](http://blog.csdn.net/u013413471).
-
-[Link to Chinese Resume](https://github.com/seektech/Resume-MiaoLI/blob/master/AwesomeCV_CH/resume.pdf).
-
-[Link to English Resume](https://github.com/seektech/Resume-MiaoLI/blob/master/AwesomeCV_EN/resume.pdf).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-## [](#header-2) 学习笔记
-
-> This is a blockquote following a header.
->
 > When something is important enough, you do it even if the odds are not in your favor.
 
-### 目录
+Welcome! These pages are notes in my study. I hope that you can point out in CSDN, if there are clerical error or mistake.
+
+## [](#header-2) Notes
+
+### Content
 * [Tools](#Tools)
 * [Java](#Java)
 
