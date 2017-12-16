@@ -5,21 +5,30 @@ layout: default
 
 **Miao LI**  
 
-Graduate Student （2017-2020） in Institute of Software, Chinese Academy of Sciences
+Graduate Student （2017-2020） in Institute of Software, Chinese Academy of Sciences  
 
-seektech@126.com 18810707818
+seektech@126.com 18810707818  
 
-[GitHub page](https://github.com/seektech).       [CSDN page](http://blog.csdn.net/u013413471).       [Chinese Resume](https://github.com/seektech/Resume-MiaoLI/blob/master/AwesomeCV_CH/resume.pdf).       [English Resume](https://github.com/seektech/Resume-MiaoLI/blob/master/AwesomeCV_EN/resume.pdf).
+[GitHub page](https://github.com/seektech).   
+
+[CSDN page](http://blog.csdn.net/u013413471).  
+
+[Chinese Resume](https://github.com/seektech/Resume-MiaoLI/blob/master/AwesomeCV_CH/resume.pdf).  
+
+[English Resume](https://github.com/seektech/Resume-MiaoLI/blob/master/AwesomeCV_EN/resume.pdf).  
+
+  
 
 
 
 > When something is important enough, you do it even if the odds are not in your favor.
 
-Welcome! These pages are notes in my study. I hope that you can point out in CSDN, if there are clerical error or mistake.
+Welcome! These pages are notes in my study. I hope that you can point out in CSDN, if there are clerical error or mistake.  
 
-## [](#header-2) Notes
 
-### Content
+
+## [](#header-2) Notes Content
+
 * [Tools](#Tools)
 * [Java](#Java)
 
