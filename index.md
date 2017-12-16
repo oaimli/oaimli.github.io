@@ -3,7 +3,7 @@ layout: default
 ---
 ![](https://github.com/seektech/seektech.github.io/blob/master/source/avatar.png "Miao LI")
 
-### **Miao LI**  
+## **Miao LI**  
 
 ***Graduate Student （2017-2020）***   
 
