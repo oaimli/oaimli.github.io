@@ -3,9 +3,11 @@ layout: default
 ---
 ![](https://github.com/seektech/seektech.github.io/blob/master/source/avatar.png "Miao LI")
 
-**Miao LI**  
+### **Miao LI**  
 
-Graduate Student （2017-2020） in Institute of Software, Chinese Academy of Sciences  
+***Graduate Student （2017-2020）***   
+
+***Institute of Software, Chinese Academy of Sciences***  
 
 seektech@126.com 18810707818  
 
