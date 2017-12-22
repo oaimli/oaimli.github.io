@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Git命令使用
+Template for my blog
 ===========================================
 
 >转载请标明出处：  
@@ -31,12 +31,12 @@ git add .
 git commit -m "注释"
 ```
 
-**step 4:** 在`GitHub`上建立仓库，建议与本地project同名，也可异名，然后执行如下命令是本地仓库与`GitHub`上的远程仓库建立连接，这里使用Https协议地址，不需要配置SSH，用仓库地址代替“...”即可
+**step 4:** 在`GitHub`上建立仓库，建议与本地project同名，也可异名，然后执行如下命令是
 
 ```js
 git remote add origin ...
 ```
-**step 5:** 将本地仓库的操作提交到`GitHub`上，提交之前pull一下,执行完如下命令不报错则上传代码成功了，在`GitHub`上能看到刚才上传的代码和文件
+**step 5:** 将本地仓库的操作提交到`GitHub`上，提交之前pull一下,执行完如下命令不报错则上
 
 ```js
 git pull origin master
@@ -46,13 +46,13 @@ git push -u origin master
 
 ### [](#header-2)二、从github上clone代码，添加文件或者修改文件后提交
 
-**step 1:** 将代码clone到本地，clone成功后会在本地生成一个与所clone的`GitHub`仓库同名的文件夹，而且在该文件夹下有.git隐藏文件夹，本地项目与远程相应的远程仓库自动建立连接
+**step 1:** 将代码clone到本地，clone成功后会在本地生成一个与所clone的`GitHub`仓库同名的文件夹，
 
 ```js
 git clone ...
 ```
 
-**step 2:** 执行add命令之前可以使用git status命令查看仓库当前的状态（添加和修改了哪些文件），显示被修改或者被添加的文件，并提示no changes added to commit，并且可以利用git diff命令查看修改的具体情况，git .中“.”可以是具体的文件名
+**step 2:** 执行add命令之前可以使用git status命令查看仓库当前的状态（添加和修改了哪些文件）
 
 ```js
 git status
@@ -60,7 +60,7 @@ git diff
 git add .
 ```
 
-**step 3:** 然后执行commit命令将更改提交的本地仓库，执行commit之前可以git status查看当前仓库状态，提示changes to be commit，即列出可以被提交到仓库的文件，commit之后再次执行git status提示nothing to commit
+**step 3:** 然后执行commit命令将更改提交的本地仓库，执行commit之前可以git status查看当
 
 ```js
 git status

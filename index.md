@@ -36,10 +36,10 @@ Welcome! These pages are notes in my study. I hope that you can point out in CSD
 
 ### [](#Tools)Tools
 
-* [Git命令使用](2017120901).
-* [多版本python下依赖库的管理](2017121601)
+* [Git命令使用](2017120901_Git命令使用).
+* [多版本python下依赖库的管理](2017121601_多版本python下依赖库的管理)
 
 ### [](#Java)Java
 
-* [Link to blog](2017120901).
+* [Link to blog](GFM_template).
 
