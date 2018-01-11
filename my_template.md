@@ -6,7 +6,7 @@ Template for my blog
 ===========================================
 
 >转载请标明出处：  
->https://seektech.github.io/2017120901 [**Miao LI (seektech)**](https://seektech.github.io/2017120901)
+>https://seektech.github.io/ [**Miao LI (seektech)**](https://seektech.github.io)
 
 
 完全使用命令行操作`GitHub`,学习笔记，持续更新
@@ -74,6 +74,6 @@ git status
 git pull origin master
 git push -u origin master
 ```
-如有评论和建议，请移步[CSDN](http://blog.csdn.net/u013413471/article/details/78762238)  
+如有评论和建议，请移步[CSDN](http://blog.csdn.net/u013413471/article/)  
 
 Back to my [HOMEPAGE](index).

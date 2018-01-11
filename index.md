@@ -11,15 +11,11 @@ layout: default
 
 ***Institute of Software, Chinese Academy of Sciences***  
 
-seektech@126.com 18810707818  
+seektech@126.com limiao17@otcaix.iscas.ac.cn 18810707818  
 
-[GitHub page](https://github.com/seektech).   
+[GitHub page](https://github.com/seektech).   [CSDN page](http://blog.csdn.net/u013413471).  
 
-[CSDN page](http://blog.csdn.net/u013413471).  
-
-[Chinese Resume](https://github.com/seektech/Resume-MiaoLI/blob/master/AwesomeCV_CH/resume.pdf).  
-
-[English Resume](https://github.com/seektech/Resume-MiaoLI/blob/master/AwesomeCV_EN/resume.pdf).  
+[Chinese Resume](https://github.com/seektech/Resume-MiaoLI/blob/master/AwesomeCV_CH/resume.pdf).  [English Resume](https://github.com/seektech/Resume-MiaoLI/blob/master/AwesomeCV_EN/resume.pdf).  
 
   
 
@@ -31,10 +27,11 @@ Welcome! These pages are notes in my study. I hope that you can point out in CSD
 
 
 
-## [](#header-2) Notes Content
+####Notes Content
 
 * [Tools](#Tools)
 * [Java](#Java)
+* [Machine Learning](#Machine Learning)
 
 ### [](#Tools)Tools
 
@@ -44,4 +41,8 @@ Welcome! These pages are notes in my study. I hope that you can point out in CSD
 ### [](#Java)Java
 
 * [Link to blog](GFM_template).
+
+### [](#Machine Learning)Machine Learning
+
+* [模式识别绪论](2018011101_模式识别绪论).
 
