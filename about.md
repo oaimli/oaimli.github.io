@@ -8,11 +8,15 @@ titles:
 key: page-about
 ---
 
-## ![](https://ws1.sinaimg.cn/large/006tNc79ly1fmufgqhpovj308w08wmya.jpg)  
 
-## **Miao LI**  
 
-***Graduate Student （2017-2020）***   
+![](https://ws1.sinaimg.cn/large/006tNc79ly1fmufgqhpovj308w08wmya.jpg)
+
+> Whatever is worth doing is worth doing well
+
+## **Miao LI**
+
+**Graduate Student （2017-2020）***   
 
 ***Institute of Software, Chinese Academy of Sciences***  
 
