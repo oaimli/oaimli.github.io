@@ -27,22 +27,21 @@ Welcome! These pages are notes in my study. I hope that you can point out in CSD
 
 
 
-####Notes Content
+###Notes Content
 
 * [Tools](#Tools)
 * [Java](#Java)
 * [Machine Learning](#Machine Learning)
 
-### [](#Tools)Tools
+## [](#Tools)Tools
 
 * [Git命令使用](2017120901_Git命令使用).
 * [多版本python下依赖库的管理](2017121601_多版本python下依赖库的管理)
 
-### [](#Java)Java
+## [](#Java)Java
 
 * [Link to blog](GFM_template).
 
-### [](#Machine Learning)Machine Learning
+## [](#Machine Learning)Machine Learning
 
 * [模式识别绪论](2018011101_模式识别绪论).
-
