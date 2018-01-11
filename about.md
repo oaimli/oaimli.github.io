@@ -8,8 +8,6 @@ titles:
 key: page-about
 ---
 
-![](https://github.com/seektech/seektech.github.io/blob/master/source/avatar.png "Miao LI")
-
 ## ![](https://ws1.sinaimg.cn/large/006tNc79ly1fmufgqhpovj308w08wmya.jpg)  
 
 ## **Miao LI**  
