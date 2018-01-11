@@ -79,5 +79,3 @@ git pull origin master
 git push -u origin master
 ```
 如有评论和建议，请移步[CSDN](http://blog.csdn.net/u013413471/article/)  
-
-Back to my [HOMEPAGE](index).
