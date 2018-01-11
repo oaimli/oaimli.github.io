@@ -27,11 +27,15 @@ Welcome! These pages are notes in my study. I hope that you can point out in CSD
 
 
 
-###Notes Content
+#### [](#Notes Content)Notes Content
 
 * [Tools](#Tools)
+
 * [Java](#Java)
+
 * [Machine Learning](#Machine Learning)
+
+  ​
 
 ## [](#Tools)Tools
 
