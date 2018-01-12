@@ -6,9 +6,6 @@ tags: MachineLearning
 mathjax: true
 ---
 
-Template for my blog
-===========================================
-
 >转载请标明出处：  
 >https://seektech.github.io/ [**Miao LI (seektech)**](https://seektech.github.io)
 
@@ -23,30 +20,6 @@ Template for my blog
 cd /MiaoLI
 git init
 ```
-**step 2:** 将MiaoLI目录下的文件或者文件夹添加到仓库
-
-```js
-git add .
-```
-
-**step 3:** 将add的操作commit到本地仓库
-
-```js
-git commit -m "注释"
-```
-
-**step 4:** 在`GitHub`上建立仓库，建议与本地project同名，也可异名，然后执行如下命令是
-
-```js
-git remote add origin ...
-```
-**step 5:** 将本地仓库的操作提交到`GitHub`上，提交之前pull一下,执行完如下命令不报错则上
-
-```js
-git pull origin master
-git push -u origin master
-```
-
 
 ### [](#header-2)二、从github上clone代码，添加文件或者修改文件后提交
 
@@ -56,26 +29,4 @@ git push -u origin master
 git clone ...
 ```
 
-**step 2:** 执行add命令之前可以使用git status命令查看仓库当前的状态（添加和修改了哪些文件）
-
-```js
-git status
-git diff
-git add .
-```
-
-**step 3:** 然后执行commit命令将更改提交的本地仓库，执行commit之前可以git status查看当
-
-```js
-git status
-git commit -m "注释"
-git status
-```
-
-**step 4:** 将本地仓库的更改push到远程仓库
-
-```js
-git pull origin master
-git push -u origin master
-```
 如有评论和建议，请移步[CSDN](http://blog.csdn.net/u013413471/article/)  
