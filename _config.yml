@@ -43,7 +43,7 @@ timezone: Asia/Shanghai #see https://en.wikipedia.org/wiki/List_of_tz_database_t
 ## Author & social ##
 author:
   name: Miao LI
-  # email:  #your Email address e.g. someone@site.com
+  email:  seektech@126.com
   # facebook:  #your Facebook username
   # twitter:  #your Twitter username
   # github:  #your GitHub username
@@ -73,7 +73,7 @@ gitalk:
 leancloud:
   app_id:  BvaDlknI98ULfAc6zFCH8bqJ-gzGzoHsz
   app_key:  1J9znujPxMBBLSnmjCfImKtS
-  app_class:  seektech
+  app_class:  Views
 
 # mathjax: true
 
