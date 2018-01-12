@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 模式识别绪论
-key: 2018011101
+key: 2018011101（必须设置，Gitalk和Leanclound需要）
 tags: MachineLearning
 mathjax: true
 ---
