@@ -29,4 +29,4 @@ git init
 git clone ...
 ```
 
-如有评论和建议，请移步[CSDN](http://blog.csdn.net/u013413471/article/)  
+该文章已同步至[CSDN](http://blog.csdn.net/u013413471/article/)  
