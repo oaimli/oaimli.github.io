@@ -61,7 +61,7 @@ disqus:
 gitalk:
   clientID:  00b893120e560034f33e
   clientSecret:  269b777f7cf1042e3c9d5415abf2503162b21aa4
-  repository:  https://github.com/seektech/seektech-Gitalk.git
+  repository:  seektech-Gitalk
   owner:  seektech
   admin: seektech
     # - owner
