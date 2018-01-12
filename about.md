@@ -32,6 +32,6 @@ seektech@126.com     limiao17@otcaix.iscas.ac.cn     18810707818
 
 Welcome! 
 
-These pages are notes in my study. All the notes are also published in my CSDN page. I hope that you can point out in CSDN or contact with me, if there are clerical errors or mistakes.  
+These pages are notes in my study. All the notes are also published in my CSDN page. I hope that you can comment or contact with me, if there are clerical errors or mistakes.  
 
 
