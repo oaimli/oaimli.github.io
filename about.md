@@ -17,15 +17,13 @@ comment: false
 
 ## **Miao LI**
 
-**Graduate Student （2017-2020）**   
+**Graduate Student （2017-2020） in Institute of Software, Chinese Academy of Sciences**  
 
-***Institute of Software, Chinese Academy of Sciences***  
-
-seektech@126.com     limiao17@otcaix.iscas.ac.cn     18810707818  
+graphorn@126.com     limiao17@otcaix.iscas.ac.cn     18810707818  
 
 [GitHub](https://github.com/seektech).     [CSDN](http://blog.csdn.net/u013413471).  
 
-[Chinese Resume](https://github.com/seektech/Resume-MiaoLI/blob/master/AwesomeCV_CH/resume.pdf).      [English Resume](https://github.com/seektech/Resume-MiaoLI/blob/master/AwesomeCV_EN/resume.pdf).  
+[Chinese Resume](https://github.com/graphorn/Resume-MiaoLI/blob/master/AwesomeCV_CH/resume.pdf).      [English Resume](https://github.com/graphorn/Resume-MiaoLI/blob/master/AwesomeCV_EN/resume.pdf).  
 
 
 > 
