@@ -14,7 +14,7 @@
 ## Base settings ##
 # url:  #the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl: /
-title: Miao LI (seektech)'s blog
+title: Miao LI (Graphorn)'s blog
 description: > #this means to ignore newlines until "nav_lists:"
   Whatever is worth doing is worth doing well
 
@@ -42,8 +42,8 @@ timezone: Asia/Shanghai #see https://en.wikipedia.org/wiki/List_of_tz_database_t
 
 ## Author & social ##
 author:
-  name: Miao LI (seektech)
-  email:  seektech@126.com
+  name: Miao LI (Graphorn)
+  email:  graphorn@126.com
   # facebook:  #your Facebook username
   # twitter:  #your Twitter username
   # github:  #your GitHub username
@@ -61,9 +61,9 @@ disqus:
 gitalk:
   clientID:  00b893120e560034f33e
   clientSecret:  269b777f7cf1042e3c9d5415abf2503162b21aa4
-  repository:  seektech-Gitalk
-  owner:  seektech
-  admin: seektech
+  repository:  graphorn-Gitalk
+  owner:  graphorn
+  admin: graphorn
     # - owner
 
 ## Google Analytics ##
