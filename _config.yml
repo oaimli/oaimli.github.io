@@ -14,7 +14,7 @@
 ## Base settings ##
 # url:  #the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl: /
-title: Miao LI (Graphorn)'s blog
+title: Miao LI (李淼)'s blog
 description: > #this means to ignore newlines until "nav_lists:"
   Whatever is worth doing is worth doing well
 
@@ -42,7 +42,7 @@ timezone: Asia/Shanghai #see https://en.wikipedia.org/wiki/List_of_tz_database_t
 
 ## Author & social ##
 author:
-  name: Miao LI (Graphorn)
+  name: Miao LI (李淼)
   email:  graphorn@126.com
   # facebook:  #your Facebook username
   # twitter:  #your Twitter username
