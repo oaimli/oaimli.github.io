@@ -14,7 +14,7 @@
 ## Base settings ##
 # url:  #the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl: /
-title: Miao Li (李淼)'s blog
+title: Miao LI's Homepage
 description: > #this means to ignore newlines until "nav_lists:"
   Whatever is worth doing is worth doing well
 
@@ -28,7 +28,7 @@ nav_lists:
 
 paths:
  base: /
- home: /about.html
+ home: /
  all:  /all.html
  rss:  /feed.xml
 
