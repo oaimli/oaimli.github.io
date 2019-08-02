@@ -15,7 +15,7 @@ titles:
   zh-HK   : *ZH_HANT
   ko      : &KO       소개
   ko-KR   : *KO
-show_title: Flase
+show_title: False
 key: page-about
 ---
 
