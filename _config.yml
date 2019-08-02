@@ -223,3 +223,6 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jemoji
+
+
+# changed _includes/footer.html
