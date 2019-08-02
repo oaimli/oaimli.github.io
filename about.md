@@ -23,23 +23,21 @@ modify_date: 2019-08-01
 
 <table>
 <tr>
-<td>
+<td width="280">
     <div style="float:center">
       <img src="files/avatar.jpg" width="250">
     </div>
 </td>
-<td width="450">
+<td>
     <font face="Arial"> <b><font size="6.5">Miao Li</font></b></font>
     <p>
         <font face="Arial">
         <p> Third-year master student </p>
-        <a href="http://lcs.ios.ac.cn/wiki/%E9%A6%96%E9%A1%B5">State Key Laboratory of Computer Science</a><br>
-		<a href="http://www.is.cas.cn/">Institute of Software, Chinese Academy of Sciences</a><br>
+        <a href="http://lcs.ios.ac.cn/wiki/%E9%A6%96%E9%A1%B5">State Key Laboratory of Computer Science</a>, <a href="http://www.is.cas.cn/">ISCAS</a><br>
 		<a href="http://www.ucas.ac.cn/">University of Chinese Academy of Sciences</a><br>
-        <p>
         Phone: (86) 188-1070-7818 <br>
-        Email: <font size="3">miaoli DOT cs AT gmail DOT com</font>
-        </p>
+        Email: <font size="3">miaoli DOT cs AT gmail DOT com</font><br>
+        Address: 4# South Fourth Street, ZhongGuanCun ,Beijing, China 
         </font>
    </p>
 </td>
