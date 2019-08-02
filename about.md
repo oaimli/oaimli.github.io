@@ -23,6 +23,8 @@ graphorn@126.com     limiao17@otcaix.iscas.ac.cn     18810707818
 
 [Chinese Resume](https://github.com/graphorn/Resume-MiaoLI/blob/master/AwesomeCV_CH/resume.pdf).      [English Resume](https://github.com/graphorn/Resume-MiaoLI/blob/master/AwesomeCV_EN/resume.pdf).  
 
+[Resume](./papers/acd.pdf)
+
 
 > 
 
