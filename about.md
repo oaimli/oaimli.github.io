@@ -21,18 +21,34 @@ comment: false
 modify_date: 2019-08-01
 ---
 
-
-
-## **Miao Li **
-
-Institute of Software, Chinese Academy of Sciences
-
-------
+<table>
+<tr>
+<td>
+    <div style="float:left">
+    <img src="files/avatar.jpg" width="250">
+</div>
+</td>
+<td width="450">
+	<font face="Arial"> <b><font size="5">Miao Li</font></b></font>
+    <p><font face="Arial">
+        <p> Third-year master student </p>
+        <a href="http://lcs.ios.ac.cn/wiki/%E9%A6%96%E9%A1%B5">State Key Laboratory of Computer Science</a><br>
+				<a href="http://www.is.cas.cn/">Institute of Software, Chinese Academy of Sciences</a><br>
+				<a href="http://www.ucas.ac.cn/">University of Chinese Academy of Sciences</a><br>
+				Phone: (86) 188-1070-7818 <br>
+        Email: <font size="2"><b>miaoli DOT cs AT gmail DOT com</b>
+        </font>
+    </p>
+    </td>
+</tr>
+<tr>
+</table>
 
 #### Brief Bio
 
 #### Research Interests
 
+#### Publications
+
 #### Projects
 
-#### Publications
