@@ -24,7 +24,7 @@ modify_date: 2019-08-01
 <table>
 <tr>
 <td>
-    <div style="float:left">
+    <div style="float:center">
     <img src="files/avatar.jpg" width="250">
 </div>
 </td>
@@ -39,10 +39,11 @@ modify_date: 2019-08-01
         Email: <font size="2"><b>miaoli DOT cs AT gmail DOT com</b>
         </font>
     </p>
-    </td>
+</td>
 </tr>
-<tr>
 </table>
+
+
 
 #### Brief Bio
 
