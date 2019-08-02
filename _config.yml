@@ -27,10 +27,10 @@ nav_lists:
     url: /about.html
 
 paths:
- base: /
+ base: /about.html
  home: /
  all:  /all.html
- rss:  /feed.xml
+# rss:  /feed.xml
 
 ## GitHub repository (if the site is hosted by GitHub) ##
 # repository:  #e.g. someone/someone.github.io
@@ -42,11 +42,11 @@ timezone: Asia/Shanghai #see https://en.wikipedia.org/wiki/List_of_tz_database_t
 
 ## Author & social ##
 author:
-  name: Miao Li (李淼)
+  name: Miao LI
   email:  miaoli.cs@gmail.com
   # facebook:  #your Facebook username
-  # twitter:  #your Twitter username
-  # github:  #your GitHub username
+   twitter:  miaoli_cs
+   github:  oaimli
   # googleplus:  #your Google+ username
   # weibo:  #your Weibo username
   # douban:  #your Douban username

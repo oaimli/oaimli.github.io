@@ -11,8 +11,6 @@ comment: false
 
 
 
-![](https://ws1.sinaimg.cn/large/006tNc79ly1fmufgqhpovj308w08wmya.jpg)
-
 > Whatever is worth doing is worth doing well
 
 ## **Miao Li (李淼)**
@@ -27,6 +25,10 @@ graphorn@126.com     limiao17@otcaix.iscas.ac.cn     18810707818
 
 
 > 
+
+
+
+
 
 Welcome! 
 
