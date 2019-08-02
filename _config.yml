@@ -14,7 +14,7 @@
 ## Base settings ##
 # url:  #the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl: /
-title: Miao LI's Blog
+title: Miao Li (李淼)'s blog
 description: > #this means to ignore newlines until "nav_lists:"
   Whatever is worth doing is worth doing well
 
@@ -26,11 +26,11 @@ nav_lists:
       zh-Hant: 關於
     url: /about.html
 
-paths:
- base: /
- home: /
- all:  /all.html
- rss:  /feed.xml
+# paths:
+#   base: /
+#   home: /
+#   all:  /all.html
+#   rss:  /feed.xml
 
 ## GitHub repository (if the site is hosted by GitHub) ##
 # repository:  #e.g. someone/someone.github.io
@@ -42,11 +42,11 @@ timezone: Asia/Shanghai #see https://en.wikipedia.org/wiki/List_of_tz_database_t
 
 ## Author & social ##
 author:
-  name: Miao LI
+  name: Miao Li (李淼)
   email:  miaoli.cs@gmail.com
   # facebook:  #your Facebook username
-   twitter:  miaoli_cs
-   github:  oaimli
+  # twitter:  #your Twitter username
+  # github:  #your GitHub username
   # googleplus:  #your Google+ username
   # weibo:  #your Weibo username
   # douban:  #your Douban username
