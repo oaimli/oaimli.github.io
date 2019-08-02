@@ -17,10 +17,22 @@ titles:
   ko-KR   : *KO
 show_title: False
 key: page-about
+comment: false
+modify_date: 2019-08-01
 ---
 
 
 
-## **Miao Li (李淼)**
+## **Miao Li **
 
-**Graduate Student （2017-2020） in Institute of Software, Chinese Academy of Sciences**  
+Institute of Software, Chinese Academy of Sciences
+
+------
+
+#### Brief Bio
+
+#### Research Interests
+
+#### Projects
+
+#### Publications
