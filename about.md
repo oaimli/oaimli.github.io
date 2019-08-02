@@ -44,8 +44,6 @@ modify_date: 2019-08-01
 </tr>
 </table>
 
-
-
 #### Brief Bio
 
 dsfdsajfksdfjkladjfkdasjfk dskfjadksfjaksd f dskfj adkfad  dalfj dka f dsfk ad kf adf adkfja df adkfja dkf ad fak fdf 
