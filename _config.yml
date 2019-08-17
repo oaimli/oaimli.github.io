@@ -62,7 +62,7 @@ repository_tree: master
 ## => Paths
 ##############################
 paths:
-  root    : /about.html # title link url, "/" (default)
+  root    : # title link url, "/" (default)
   home    : # home layout url, "/" (default)
   archive : # "/archive.html" (default)
   rss     : # "/feed.xml" (default)
@@ -211,8 +211,8 @@ plugins:
   - jekyll-sitemap
   - jemoji
 
-
+# change records
 # changed _includes/footer.html
 # changed _includes/svg/logo.svg
 # changed favicon.ico
-# added files
+# added files folder for PDF storage
