@@ -1,7 +1,7 @@
 ---
 layout: article
 titles:
-  en      : &EN       About
+  en      : &EN       Welcome
   en-GB   : *EN
   en-US   : *EN
   en-CA   : *EN
