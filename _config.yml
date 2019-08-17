@@ -63,7 +63,7 @@ repository_tree: master
 ##############################
 paths:
   root    : # title link url, "/" (default)
-  home    : /home.html # home layout url, "/" (default)
+  home    : # home layout url, "/" (default)
   archive : # "/archive.html" (default)
   rss     : # "/feed.xml" (default)
 
@@ -216,3 +216,6 @@ plugins:
 # changed _includes/svg/logo.svg
 # changed favicon.ico
 # added files folder for PDF storage
+# change about.md to index.md to make the root page be personal info.
+# change index.html to home.html to make Blog be the page of articles.
+# change _data/navigation.yml
