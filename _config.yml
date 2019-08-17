@@ -217,5 +217,5 @@ plugins:
 # changed favicon.ico
 # added files folder for PDF storage
 # change about.md to index.md to make the root page be personal info.
-# change index.html to home.html to make Blog be the page of articles.
+# change index.html to posts.html to make Blog be the page of articles.
 # change _data/navigation.yml
