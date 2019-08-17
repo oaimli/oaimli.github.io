@@ -219,3 +219,4 @@ plugins:
 # change about.md to index.md to make the root page be personal info.
 # change index.html to posts.html to make Blog be the page of articles.
 # change _data/navigation.yml
+# delete header from _includes/header.html
