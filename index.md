@@ -23,7 +23,7 @@ modify_date: 2019-08-01
 
 <table>
 <tr>
-<td width="280">
+<td width="260">
     <div style="float:center">
       <img src="files/avatar.jpg" width="250">
     </div>
@@ -46,7 +46,7 @@ modify_date: 2019-08-01
 
 #### Brief Bio
 
-My CV is [here](https://oaimli.github.io/files/miaoli-cv.pdf)
+I'm currently a third-year master student in Institute of SoftwareMy CV is [here](https://oaimli.github.io/files/miaoli-cv.pdf)
 
 http://english.neu.edu.cn/
 
