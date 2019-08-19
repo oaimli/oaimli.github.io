@@ -46,6 +46,8 @@ modify_date: 2019-08-01
 
 #### Brief Bio
 
+My CV is [here](https://oaimli.github.io/files/miaoli-cv.pdf)
+
 http://english.neu.edu.cn/
 
 #### Research Interests
