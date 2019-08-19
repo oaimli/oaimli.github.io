@@ -33,8 +33,8 @@ modify_date: 2019-08-01
     <p>
         <font face="Arial">
         <p> Third-year master student </p>
-        <a href="http://lcs.ios.ac.cn/wiki/%E9%A6%96%E9%A1%B5">State Key Laboratory of Computer Science</a>, <a href="http://www.is.cas.cn/">ISCAS</a><br>
-		<a href="http://www.ucas.ac.cn/">University of Chinese Academy of Sciences</a><br>
+        <a href="http://lcs.ios.ac.cn/en/wiki/Main_Page">State Key Laboratory of Computer Science</a>, <a href="http://english.is.cas.cn/">ISCAS</a><br>
+		<a href="http://english.ucas.ac.cn/">University of Chinese Academy of Sciences</a><br>
         Phone: (86) 188-1070-7818 <br>
         Email: <font size="3">miaoli DOT cs AT gmail DOT com</font><br>
         Address: 4# South Fourth Street, ZhongGuanCun ,Beijing, China 
@@ -46,7 +46,7 @@ modify_date: 2019-08-01
 
 #### Brief Bio
 
-dsfdsajfksdfjkladjfkdasjfk dskfjadksfjaksd f dskfj adkfad  dalfj dka f dsfk ad kf adf adkfja df adkfja dkf ad fak fdf 
+http://english.neu.edu.cn/
 
 #### Research Interests
 
