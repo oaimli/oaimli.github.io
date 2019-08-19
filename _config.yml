@@ -217,6 +217,7 @@ plugins:
 # changed favicon.ico
 # added files folder for PDF storage
 # change about.md to index.md to make the root page be personal info.
-# change index.html to posts.html to make Blog be the page of blogs.
+# add folder blogs and move index.html into it, change navigation to /blogs/ to make Posts be the page of blogs.
 # change _data/navigation.yml
 # delete header from _includes/header.html
+# change _config, home->/blogs/  and  paginate_path: /page:num->paginate_path: /blogs/page:num  
