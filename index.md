@@ -52,6 +52,21 @@ http://english.neu.edu.cn/
 
 #### Research Interests
 
+I am very interested in Natural Language Processing and Machine Learning, especially the interaction of Deep Learning and Natural Language Processing. My current research focuses on:
+
+- Text generation and document-level understanding
+- Deep Unsupervised learning and deep generative models for Natural Language Processing
+- Knowledge guided Natural Language Processing
+- Model transparency, interpretability, and controllability
+
+#### Technical Skills
+
+- Skilled programming in Python, Java, and LaTeX, also familiar with Linux 
+- Proficient in deep learning programming, especially in Keras and Tensorflow, and programming tool boxes (e.g. Numpy, Scipy, Scikit-learn, NLTK)
+- Master at most Machine Learning Models (e.g. SVM, LDA, CRF) and inference methods (e.g. Variational Inference and Monte Carlo Method)
+- Understand deep learning well, such as CNN, RNN and high-level deep generative models, especially Variational Auto-Encoder
+- Familiar with fundamental tasks and models of Natural Language Processing, like text modeling, information extraction, text generation, etc.
+
 #### Publications
 
 #### Projects
