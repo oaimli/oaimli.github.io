@@ -65,8 +65,6 @@ I am very interested in Natural Language Processing and Machine Learning, especi
 - Understand deep learning well, such as CNN, RNN and high-level deep generative models, especially Variational Auto-Encoder
 - Familiar with fundamental tasks and models of Natural Language Processing, like text modeling, information extraction, text generation, etc.
 
-Publicatio
-
 #### Publications
 
 - (EMNLP 2019 Accepted) A Topic Augmented Text Generation Model: Joint Learning of Semantics and Structural features 
@@ -83,7 +81,7 @@ Publicatio
 - Excellent Student Cadre of University of Chinese Academy of Sciences, twice	Jun. 2018&2019
 - Merit Student of University of Chinese Academy of Sciences, twice	Jun. 2018&2019
 - Outstanding Graduate of Northeastern University	June. 2017
-- Outstanding graduate thesis Award of Northeastern University (Top 1/272)	Jul. 2017
+- Outstanding graduate thesis Award of Northeastern University	Jul. 2017
 - First prize scholarship of Northeastern University, twice	Sep. 2015&2016
 - Chinese National Encouragement Scholarship, twice	Oct. 2015&2016
 - Excellent Student Cadre of Northeastern University, twice	Oct. 2015&2016
