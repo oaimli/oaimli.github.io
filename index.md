@@ -23,7 +23,7 @@ modify_date: 2019-08-01
 
 <table>
 <tr>
-<td width="260">
+<td width="280" align="center">
     <div style="float:center">
       <img src="files/avatar.jpg" width="250">
     </div>
