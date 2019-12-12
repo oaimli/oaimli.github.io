@@ -25,7 +25,7 @@ modify_date: 2019-12-12
 <tr>
 <td width="310" align="center">
     <div style="float:center">
-      <img src="files/avatar-blog.png" width="290">
+      <img src="files/avatar-blog.png" width="280">
     </div>
 </td>
 <td>
