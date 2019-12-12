@@ -68,18 +68,9 @@ I am very interested in Natural Language Processing and Machine Learning, especi
 
 #### Publications
 
-- Hongyin Tang, ***Miao Li***, Beihong Jin
-
-  A Topic Augmented Text Generation Model: Joint Learning of Semantics and Structural features (EMNLP 2019, CCF B)  
-
-- ***Miao Li***,  Hongyin Tang, Beihong Jin, Chengqing Zong
-
-  A New Effective Neural Variational Model with Mixture-of-Gaussians Prior for Text Clustering (ICTAI 2019, CCF C) 
-
-- ***Miao Li***, Hongyin Tang, Beihong Jin
-
-  Clustering Large-Scale Origin-Destination Pairs: A Case Study for Public Transit in Beijing (UIC 2018, CCF C) 
-
+- Hongyin Tang, ***Miao Li***, Beihong Jin. A Topic Augmented Text Generation Model: Joint Learning of Semantics and Structural features (EMNLP 2019, CCF B)  
+- ***Miao Li***,  Hongyin Tang, Beihong Jin, Chengqing Zong. A New Effective Neural Variational Model with Mixture-of-Gaussians Prior for Text Clustering (ICTAI 2019, CCF C) 
+- ***Miao Li***, Hongyin Tang, Beihong Jin. Clustering Large-Scale Origin-Destination Pairs: A Case Study for Public Transit in Beijing (UIC 2018, CCF C) 
 - Software copyright of a medical system in Android, No.2016SR133938, June 2016
 
 #### Projects
