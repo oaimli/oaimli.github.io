@@ -51,12 +51,14 @@ I'm currently a third-year master student (Exam-exempted postgraduate) in Instit
 
 #### Research Interests
 
-I am very interested in Natural Language Processing and Machine Learning, especially the interaction of Deep Learning and Natural Language Processing. My current research focuses on:
+I am very interested in Natural Language Processing and Machine Learning, especially the intersection of Deep Learning and Natural Language Processing. My current research focuses on:
 
 - Text generation and document-level understanding
 - Deep Unsupervised learning and deep generative models for Natural Language Processing
 - Knowledge guided Natural Language Processing
 - Model transparency, interpretability, and controllability
+
+In future study, I will extend my current research to multimodal data and achieve unsupervised neural language learning from multimodal resources, such as abstractive multimodal summarisation with deep generative models.
 
 #### Technical Skills
 
@@ -68,9 +70,9 @@ I am very interested in Natural Language Processing and Machine Learning, especi
 
 #### Publications
 
-- Hongyin Tang, ***Miao Li***, Beihong Jin. A Topic Augmented Text Generation Model: Joint Learning of Semantics and Structural features (EMNLP 2019, CCF B)  
-- ***Miao Li***,  Hongyin Tang, Beihong Jin, Chengqing Zong. A New Effective Neural Variational Model with Mixture-of-Gaussians Prior for Text Clustering (ICTAI 2019, CCF C) 
-- ***Miao Li***, Hongyin Tang, Beihong Jin. Clustering Large-Scale Origin-Destination Pairs: A Case Study for Public Transit in Beijing (UIC 2018, CCF C) 
+- Hongyin Tang, ***Miao Li***, Beihong Jin. A Topic Augmented Text Generation Model: Joint Learning of Semantics and Structural features (EMNLP 2019, CCF Rank B)  
+- ***Miao Li***,  Hongyin Tang, Beihong Jin, Chengqing Zong. A New Effective Neural Variational Model with Mixture-of-Gaussians Prior for Text Clustering (ICTAI 2019, CCF Rank C) 
+- ***Miao Li***, Hongyin Tang, Beihong Jin. Clustering Large-Scale Origin-Destination Pairs: A Case Study for Public Transit in Beijing (UIC 2018, CCF Rank C) 
 - Software copyright of a medical system in Android, No.2016SR133938, June 2016
 
 #### Projects
