@@ -53,8 +53,8 @@ I'm currently a third-year master student (Exam-exempted postgraduate) in Instit
 
 I am very interested in Natural Language Processing and Machine Learning, especially the intersection of Deep Learning and Natural Language Processing. My current research focuses on:
 
+- Deep unsupervised learning for Natural Language Processing
 - Text generation and document-level understanding
-- Deep Unsupervised learning and deep generative models for Natural Language Processing
 - Knowledge guided Natural Language Processing
 - Model transparency, interpretability, and controllability
 
