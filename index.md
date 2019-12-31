@@ -47,7 +47,7 @@ modify_date: 2019-12-12
 
 #### Brief Bio
 
-I'm currently a third-year master student (Exam-exempted postgraduate) in Institute of Software, Chinese Academy of Sciences ([ISCAS](http://english.is.cas.cn/)), supervised by [Prof. Beihong Jin](http://work.iscas.ac.cn/index.php/Jinbeihong/index/index), and I'm also affiliated with School of Computer Science and Technology, University of Chinese Academy of Sciences ([UCAS](https://english.ucas.ac.cn/)). Prior to ISCAS, I obtained my Bachelar's degree in School of Software, Northeastern University ([NEU](http://english.neu.edu.cn/)) in 2017. More information about me is [here](https://oaimli.github.io/files/miaoli-cv.pdf).
+I'm currently a third-year master student (Exam-exempted postgraduate) in Institute of Software, Chinese Academy of Sciences ([ISCAS](http://english.is.cas.cn/)), supervised by [Prof. Beihong Jin](http://work.iscas.ac.cn/index.php/Jinbeihong/index/beihong.html), and I'm also affiliated with School of Computer Science and Technology, University of Chinese Academy of Sciences ([UCAS](https://english.ucas.ac.cn/)). Prior to ISCAS, I obtained my Bachelar's degree in School of Software, Northeastern University ([NEU](http://english.neu.edu.cn/)) in 2017. More information about me is [here](https://oaimli.github.io/files/miaoli-cv.pdf).
 
 #### Research Interests
 
