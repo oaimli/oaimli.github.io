@@ -29,7 +29,7 @@ modify_date: 2019-12-12
     </div>
 </td>
 <td>
-    <font face="Arial"> <b><font size="6.5">Miao Li (李淼)</font></b></font>
+    <font face="Arial"> <b><font size="6.5">Miao LI (李淼)</font></b></font>
     <p>
         <font face="Arial">
         <p> Third-year master student </p>
@@ -45,20 +45,25 @@ modify_date: 2019-12-12
 </tr>
 </table>
 
+*Whatever is worth doing at all, is worth doing well.       ------ Philip Stanhope*
+
 #### Brief Bio
 
-I'm currently a third-year master student (Exam-exempted postgraduate) in Institute of Software, Chinese Academy of Sciences ([ISCAS](http://english.is.cas.cn/)), supervised by [Prof. Beihong Jin](http://work.iscas.ac.cn/index.php/Jinbeihong/index/beihong.html), and I'm also affiliated with School of Computer Science and Technology, University of Chinese Academy of Sciences ([UCAS](https://english.ucas.ac.cn/)). Prior to ISCAS, I obtained my Bachelar's degree in School of Software, Northeastern University ([NEU](http://english.neu.edu.cn/)) in 2017. More information about me is [here](https://oaimli.github.io/files/miaoli-cv.pdf).
+I'm currently a third-year master student (exam-exempted postgraduate) from the School of Computer Science and Technology, University of Chinese Academy of Sciences ([UCAS](https://english.ucas.ac.cn/)), now studying at the Institute of Software, Chinese Academy of Sciences ([ISCAS](http://english.is.cas.cn/)), supervised by [Prof. Beihong Jin](http://work.iscas.ac.cn/index.php/Jinbeihong/index/beihong.html), and  I'm going to graduate in June 2020. Prior to ISCAS, I obtained my Bachelar's degree in the School of Software, Northeastern University ([NEU](http://english.neu.edu.cn/)) in 2017. More information about me is [here](https://oaimli.github.io/files/miaoli-cv.pdf).
 
 #### Research Interests
 
-I am very interested in Natural Language Processing and Machine Learning, especially the intersection of Deep Learning and Natural Language Processing. My current research focuses on:
+My research interests fall in Natural Language Processing and Machine Learning, especially the intersection of Deep Unsupervised Learning for Natural Language Processing, also text mining. I always desire that machines can understand and generate texts like humans. 
+
+My current research focuses on:
 
 - Deep unsupervised learning for Natural Language Processing
 - Text generation and document-level understanding
 - Knowledge guided Natural Language Processing
 - Model transparency, interpretability, and controllability
+- Deep latent-variable models for text clustering (master thesis topic)
 
-In future study, I will extend my current research to multimodal data and achieve unsupervised neural language learning from multimodal resources, such as abstractive multimodal summarisation with deep generative models.
+In future study, I will extend my current research to multimodal data and achieve unsupervised neural language learning from multimodal resources, such as abstractive multimodal summarisation with deep generative models. 
 
 #### Technical Skills
 
@@ -66,7 +71,7 @@ In future study, I will extend my current research to multimodal data and achiev
 - Proficient in deep learning programming, especially in Keras and Tensorflow, and programming tool boxes (e.g. Numpy, Scipy, Scikit-learn, NLTK)
 - Master at most Machine Learning Models (e.g. SVM, LDA, CRF) and inference methods (e.g. Variational Inference and Monte Carlo Method)
 - Understand deep learning well, such as CNN, RNN and high-level deep generative models, especially Variational Auto-Encoder
-- Familiar with fundamental tasks and models of Natural Language Processing, like text modeling, information extraction, text generation, etc.
+- Familiar with fundamental tasks and models of Natural Language Processing and Text Mining, like text modeling, information extraction, text generation, etc.
 
 #### Publications
 
