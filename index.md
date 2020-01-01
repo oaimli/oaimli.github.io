@@ -61,7 +61,7 @@ My current research focuses on:
 - Text generation and document-level understanding
 - Knowledge guided Natural Language Processing
 - Model transparency, interpretability, and controllability
-- Deep latent-variable models for text clustering (master thesis topic)
+- Deep latent-variable models for text clustering (master thesis)
 
 In future study, I will extend my current research to multimodal data and achieve unsupervised neural language learning from multimodal resources, such as abstractive multimodal summarisation with deep generative models. 
 
@@ -84,14 +84,18 @@ In future study, I will extend my current research to multimodal data and achiev
 
 #### Honors and Awards
 
-- Chinese National Scholarship for Postgraduates, November 2018
-- The First Prize Scholarship of UCAS, October 2018
-- Excellent Student Cadre of University of Chinese Academy of Sciences, twice on June 2018&2019
-- Merit Student of University of Chinese Academy of Sciences, twice on June 2018&2019
-- Outstanding Graduate of Northeastern University, June 2017
-- Outstanding graduate thesis Award of Northeastern University, July 2017
-- First prize scholarship of Northeastern University, twice on September 2015&2016
-- Chinese National Encouragement Scholarship, twice on October 2015&2016
-- Excellent Student Cadre of Northeastern University, twice on October 2015&2016
-- Merit Student of Northeastern University, three times on October 2014-2016
+- National Scholarship for Graduates, Education Ministry of China, November 2018
+- The First Prize Scholarship, University of Chinese Academy of Sciences, October 2018
+- Excellent Student Cadre, University of Chinese Academy of Sciences, twice on June 2018&2019
+- Merit Student, University of Chinese Academy of Sciences, twice on June 2018&2019
+- Outstanding Graduate, Northeastern University, June 2017
+- Outstanding graduate thesis Award, Northeastern University, July 2017
+- The First prize scholarship, Northeastern University, twice on September 2015&2016
+- National Encouragement Scholarship, Education Ministry of China, twice on October 2015&2016
+- Excellent Student Cadre, Northeastern University, twice on October 2015&2016
+- Merit Student, Northeastern University, three times on October 2014-2016
+
+#### Other Experiences
+
+- Volunteer in Chinese National Games, September 2013
 
