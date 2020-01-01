@@ -97,5 +97,5 @@ In future study, I will extend my current research to multimodal data and achiev
 
 #### Other Experiences
 
-- Volunteer in Chinese National Games, September 2013
+- Volunteer in the 12th Chinese National Game, September 2013
 
