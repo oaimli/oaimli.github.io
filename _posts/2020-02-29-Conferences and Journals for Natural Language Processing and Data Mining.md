@@ -47,9 +47,5 @@ Journals: TKDE、VLDBJ、TKDD
 
 
 
-This page is updated on **Mar 18, 2020**.
-
-
-
 
 
