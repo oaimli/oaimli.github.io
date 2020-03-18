@@ -6,6 +6,8 @@ tags: Other
 mathjax: true
 ---
 
+These are premier conferences and journals in Artificial Intelligence and Data Mining. I will keep the information updated.
+
 ### [](#header-1)Artificial Intelligence (NLP/ML)
 
 | Conference | CORE | CCF  | Deadline(abstract, full paper) | Link                                 |
