@@ -45,7 +45,7 @@ modify_date: 2020-03-18
 </tr>
 </table>
 
-*Whatever is worth doing at all, is worth doing well.       ------ Philip Stanhope*
+*The supreme happiness of life is the conviction that we are loved.             ------ Victor Hugo*
 
 #### Brief Bio
 
