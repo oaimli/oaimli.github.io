@@ -6,9 +6,6 @@ tags: Other
 mathjax: true
 ---
 
->转载请标明出处：  
->https://oaimli.github.io/ [**Miao LI (oaimli)**](https://oaimli.github.io)
-
 ### [](#header-1)Artificial Intelligence (NLP/ML)
 
 | Conference | CORE | CCF  | Deadline(abstract, full paper) | Link                                 |
@@ -44,3 +41,7 @@ Journals: AI、TPAMI、JMLR
 | **WWW**    | A*   | A    | Oct 7, Oct 14, 2019       | https://www2020.thewebconf.org/                      |
 
 Journals: TKDE、VLDBJ、TKDD
+
+
+
+> For more articles, please take a view of my blog site! https://oaimli.github.io/blogs/
