@@ -6,7 +6,7 @@ tags: Other
 mathjax: true
 ---
 
-These are premier conferences and journals in Artificial Intelligence and Data Mining. I will keep the information updated.
+These are premier conferences and journals in Artificial Intelligence and Data Mining. I will keep the information updated. 
 
 ### [](#header-1)Artificial Intelligence (NLP/ML)
 
@@ -46,4 +46,11 @@ Journals: TKDE、VLDBJ、TKDD
 
 
 
+
+
+> This page is updated on Mar 18, 2020.
+>
 > This article is originally from [https://oaimli.github.io/blogs/](https://oaimli.github.io/blogs/) 
+
+
+
