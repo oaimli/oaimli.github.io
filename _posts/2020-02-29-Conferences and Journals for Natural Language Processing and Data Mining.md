@@ -4,6 +4,7 @@ title: Conferences and Journals for Natural Language Processing and Data Mining
 key: 2020022901
 tags: Other
 mathjax: true
+modify_date: 2020-03-18
 ---
 
 These are premier conferences and journals in Artificial Intelligence and Data Mining. I will keep the information updated. 

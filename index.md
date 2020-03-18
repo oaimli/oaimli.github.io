@@ -18,7 +18,7 @@ titles:
 show_title: False
 key: page-about
 comment: false
-modify_date: 2019-12-12
+modify_date: 2020-03-18
 ---
 
 <table>
@@ -98,10 +98,6 @@ In future study, I will extend my current research to multimodal data and achiev
 #### Other Experiences
 
 - Volunteer in the 12th Chinese National Game, September 2013
-
-
-
-This page was updated on **Mar 18, 2020**.
 
 
 
