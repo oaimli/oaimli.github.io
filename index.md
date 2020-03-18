@@ -53,7 +53,7 @@ I'm currently a third-year master student (exam-exempted postgraduate) from the 
 
 #### Research Interests
 
-My research interests fall in Natural Language Processing and Machine Learning, especially the intersection of Deep Unsupervised Learning for Natural Language Processing, also Text Mining. I always desire that machines can understand and generate texts like human beings. 
+My research interests fall in Natural Language Processing and Machine Learning, especially Deep Unsupervised Learning for Natural Language Processing, also Text Mining. I always desire that machines can understand and generate texts like human beings. 
 
 My current research focuses on:
 

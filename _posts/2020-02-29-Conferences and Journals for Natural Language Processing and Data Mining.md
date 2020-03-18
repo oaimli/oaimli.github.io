@@ -1,6 +1,6 @@
 ---
 type: article
-title: 自然语言处理数据挖掘国际会议
+title: Conferences and Journals for Natural Language Processing and Data Mining
 key: 2020022901
 tags: Other
 mathjax: true
