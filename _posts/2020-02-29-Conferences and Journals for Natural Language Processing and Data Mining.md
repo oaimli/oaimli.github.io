@@ -46,11 +46,9 @@ Journals: TKDE、VLDBJ、TKDD
 
 
 
+This page is updated on **Mar 18, 2020**.
 
 
-> This page is updated on Mar 18, 2020.
->
-> This article is originally from [https://oaimli.github.io/blogs/](https://oaimli.github.io/blogs/) 
 
 
 

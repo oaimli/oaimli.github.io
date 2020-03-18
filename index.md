@@ -49,17 +49,17 @@ modify_date: 2019-12-12
 
 #### Brief Bio
 
-I'm currently a third-year master student (exam-exempted postgraduate) from the School of Computer Science and Technology, University of Chinese Academy of Sciences ([UCAS](https://english.ucas.ac.cn/)), now studying at the Institute of Software, Chinese Academy of Sciences ([ISCAS](http://english.is.cas.cn/)), supervised by [Prof. Beihong Jin](http://work.iscas.ac.cn/index.php/Jinbeihong/index/beihong.html), and  I'm going to graduate in June 2020. Prior to ISCAS, I obtained my Bachelar's degree in the School of Software, Northeastern University ([NEU](http://english.neu.edu.cn/)) in 2017. More information about me is [here](https://oaimli.github.io/files/CV_MiaoLi.pdf).
+I'm currently a third-year master student (exam-exempted postgraduate) at School of Computer Science and Technology, University of Chinese Academy of Sciences ([UCAS](https://english.ucas.ac.cn/)), now studying at the Institute of Software, Chinese Academy of Sciences ([ISCAS](http://english.is.cas.cn/)), supervised by [Prof. Beihong Jin](http://work.iscas.ac.cn/index.php/Jinbeihong/index/beihong.html), and  I'm going to graduate in June 2020. Prior to ISCAS, I obtained my Bachelar's degree in School of Software, Northeastern University ([NEU](http://english.neu.edu.cn/)) in 2017. More information about me is [here](https://oaimli.github.io/files/CV_MiaoLi.pdf).
 
 #### Research Interests
 
-My research interests fall in Natural Language Processing and Machine Learning, especially Deep Unsupervised Learning for Natural Language Processing, also Text Mining. I always desire that machines can understand and generate texts like human beings. 
+My research interests fall in developing machine learning models for natural language processing and text mining. I always desire that machines can understand and generate texts like human beings. 
 
 My current research focuses on:
 
-- Deep unsupervised learning for Natural Language Processing
+- Deep unsupervised learning for text processing
 - Text generation and document-level understanding
-- Knowledge guided Natural Language Processing
+- Knowledge guided natural language processing
 - Model transparency, interpretability, and controllability
 - Deep latent-variable models for text clustering (master thesis)
 
@@ -98,4 +98,10 @@ In future study, I will extend my current research to multimodal data and achiev
 #### Other Experiences
 
 - Volunteer in the 12th Chinese National Game, September 2013
+
+
+
+This page was updated on **Mar 18, 2020**.
+
+
 
