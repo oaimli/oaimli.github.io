@@ -20,7 +20,7 @@ text_skin: ocean # "default" (default), "dark", "forest", "ocean", "chocolate", 
 highlight_theme: tomorrow-night-eighties # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : / # does not include hostname
-title   : Miao LI‘s Homepage
+title   : Miao LI (ORCID 0000-0002-1669-7063)‘s Homepage
 description: > # this means to ignore newlines until "Language & timezone"
   Whatever is worth doing is worth doing well
 
@@ -46,7 +46,7 @@ author:
   googleplus: # "user_id"   the last part of your profile url, e.g. https://plus.google.com/u/0/user_id
   telegram  : # "user_name" the last part of your profile url, e.g. https://t.me/user_name
   medium    : # "user_name" the last part of your profile url, e.g. https://medium.com/user_name
-  zhihu     : # "user_name" the last part of your profile url, e.g. https://www.zhihu.com/people/user_name
+  zhihu     : https://www.zhihu.com/people/oaimli # "user_name" the last part of your profile url, e.g. https://www.zhihu.com/people/user_name
   douban    : # "user_name" the last part of your profile url, e.g. https://www.douban.com/people/user_name
   linkedin  : # "user_name" the last part of your profile url, e.g. https://www.linkedin.com/in/user_name
   github    : oaimli # "user_name" the last part of your profile url, e.g. https://github.com/user_name
@@ -218,6 +218,6 @@ plugins:
 # added files folder for PDF storage
 # change about.md to index.md to make the root page be personal info.
 # add folder blogs and move index.html into it, change navigation to /blogs/ to make Posts be the page of blogs.
-# change _data/navigation.yml
+# change _data/navigation.yml 
 # delete header from _includes/header.html
 # change _config, home->/blogs/  and  paginate_path: /page:num->paginate_path: /blogs/page:num  
