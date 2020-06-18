@@ -101,7 +101,7 @@ In future study, I will extend my current research to multimodal data and achiev
 
 
 
-Note: please watch my notes about machine learning, natural language processing and text mining at [Zhihu](https://www.zhihu.com/people/oaimli).
+Note: please watch my notes about machine learning, natural language processing and text mining at [Zhihu](https://www.zhihu.com/people/oaimli/posts).
 
 
 
