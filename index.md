@@ -47,11 +47,11 @@ modify_date: 2020-03-18
 
 *The supreme happiness of life is the conviction that we are loved.             ------ Victor Hugo*
 
-#### [](#header-1)Brief Bio
+#### Brief Bio
 
 I'm currently a third-year master student (exam-exempted postgraduate) at School of Computer Science and Technology, University of Chinese Academy of Sciences ([UCAS](https://english.ucas.ac.cn/)), now studying at the Institute of Software, Chinese Academy of Sciences ([ISCAS](http://english.is.cas.cn/)), supervised by [Prof. Beihong Jin](http://work.iscas.ac.cn/index.php/Jinbeihong/index/beihong.html), and  I'm going to graduate in June 2020. Prior to ISCAS, I obtained my Bachelar's degree in School of Software, Northeastern University ([NEU](http://english.neu.edu.cn/)) in 2017. More information about me is [here](https://oaimli.github.io/files/CV_MiaoLi.pdf).
 
-#### [](#header-2)Research Interests
+#### Research Interests
 
 My research interests fall in developing machine learning models for natural language processing and text mining. I always desire that machines can understand and generate texts like human beings. 
 
@@ -65,7 +65,7 @@ My current research focuses on:
 
 In future study, I will extend my current research to multimodal data and achieve unsupervised neural language learning from multimodal resources, such as abstractive multimodal summarisation with deep generative models. 
 
-#### [](#header-3)Technical Skills
+#### Technical Skills
 
 - Skilled programming in Python, Java, and LaTeX, also familiar with Linux 
 - Proficient in deep learning programming, especially in Keras and Tensorflow, and programming tool boxes (e.g. Numpy, Scipy, Scikit-learn, NLTK)
@@ -73,16 +73,16 @@ In future study, I will extend my current research to multimodal data and achiev
 - Understand deep learning well, such as CNN, RNN and high-level deep generative models, especially Variational Auto-Encoder
 - Familiar with fundamental tasks and models of Natural Language Processing and Text Mining, like text modeling, information extraction, text generation, etc.
 
-#### [](#header-4)Selected Publications
+#### Selected Publications
 
 - Hongyin Tang, ***Miao Li***, Beihong Jin. A Topic Augmented Text Generation Model: Joint Learning of Semantics and Structural features (EMNLP 2019, CCF Rank B), [PDF](https://www.aclweb.org/anthology/D19-1513/), [appendix](https://oaimli.github.io/files/paper_at_emnlp2019_appendix.pdf)
 - ***Miao Li***,  Hongyin Tang, Beihong Jin, Chengqing Zong. A New Effective Neural Variational Model with Mixture-of-Gaussians Prior for Text Clustering (ICTAI 2019, CCF Rank C), [PDF](https://oaimli.github.io/files/paper_at_ictai2019.pdf) 
 - ***Miao Li***, Hongyin Tang, Beihong Jin. Clustering Large-Scale Origin-Destination Pairs: A Case Study for Public Transit in Beijing (UIC 2018, CCF Rank C), [PDF](https://ieeexplore.ieee.org/document/8560115) 
 - Software copyright of a medical system in Android, No.2016SR133938, June 2016, [PDF](https://oaimli.github.io/files/software_copyright.pdf)
 
-#### [](#header-5)Projects
+#### Projects
 
-#### [](#header-6)Honors and Awards
+#### Honors and Awards
 
 - National Scholarship for Graduates, Education Ministry of China, November 2018
 - The First Prize Scholarship, University of Chinese Academy of Sciences, October 2018
@@ -95,9 +95,13 @@ In future study, I will extend my current research to multimodal data and achiev
 - Excellent Student Cadre, Northeastern University, twice on October 2015&2016
 - Merit Student, Northeastern University, three times on October 2014-2016
 
-#### [](#header-7)Other Experiences
+#### Other Experiences
 
 - Volunteer in the 12th Chinese National Game, September 2013
+
+
+
+Note: please watch my notes about machine learning, natural language processing and text mining at [Zhihu](https://www.zhihu.com/people/oaimli).
 
 
 
