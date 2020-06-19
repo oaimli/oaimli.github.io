@@ -53,9 +53,11 @@ I'm currently a third-year master student (exam-exempted postgraduate) at School
 
 #### Research Interests
 
-My research interests fall in developing machine learning models for natural language processing and text mining. I always desire that machines can understand and generate texts like human beings. 
+My research interests fall in developing machine learning models for natural language processing and text mining, also their applications in social media content analysis, business advertisement or other areas.
 
-My current research focuses on:
+I always desire that machines can understand and generate texts like human beings. 
+
+My current research has been focusing on:
 
 - Deep unsupervised learning for text processing
 - Text generation and document-level understanding
@@ -101,7 +103,7 @@ In future study, I will extend my current research to multimodal data and achiev
 
 
 
-Note: please watch my notes about machine learning, natural language processing and text mining at [Zhihu](https://www.zhihu.com/people/oaimli/posts).
+Note: please watch my notes about machine learning, natural language processing and text mining at [Zhihu](https://www.zhihu.com/people/oaimli/posts), and follow my WeChat Official Account TextAI.
 
 
 
