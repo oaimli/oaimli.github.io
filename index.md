@@ -53,9 +53,7 @@ I'm currently a third-year master student (exam-exempted postgraduate) at School
 
 #### Research Interests
 
-My research interests fall in developing machine learning models for natural language processing and text mining, also their applications in social media content analysis, business advertisement or other areas.
-
-I always desire that machines can understand and generate texts like human beings. 
+My research interests fall in developing machine learning models for natural language processing and text mining. I always desire that machines can understand and generate texts like human beings. 
 
 My current research has been focusing on:
 
@@ -63,9 +61,7 @@ My current research has been focusing on:
 - Text generation and document-level understanding
 - Knowledge guided natural language processing
 - Model transparency, interpretability, and controllability
-- Deep latent-variable models for text clustering (master thesis)
-
-In future study, I will extend my current research to multimodal data and achieve unsupervised neural language learning from multimodal resources, such as abstractive multimodal summarisation with deep generative models. 
+- Deep latent-variable models for text clustering (master thesis) 
 
 #### Technical Skills
 
