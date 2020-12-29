@@ -59,7 +59,7 @@ My current research has been focusing on:
 
 - Deep unsupervised learning for text processing
 - Text generation and document-level understanding
-- Knowledge guided natural language processing
+- Knowledge-aware natural language processing
 - Model transparency, interpretability, and controllability
 - Deep latent-variable models for text clustering (master thesis) 
 
