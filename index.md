@@ -23,9 +23,9 @@ modify_date: 2021-02-17
 
 <table>
 <tr>
-<td width="250" align="center">
+<td width="280" align="center">
     <div style="float:center">
-      <img src="files/avatar-blog.png" width="220">
+      <img src="files/avatar-blog.png" width="250">
     </div>
 </td>
 <td>
