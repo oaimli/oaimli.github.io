@@ -29,7 +29,7 @@ modify_date: 2021-02-17
     </div>
 </td>
 <td>
-    <font face="Arial"> <b><font size="6.5">Miao LI (李淼)</font></b></font>
+    <font face="Arial"> <b><font size="6.0">Miao LI (李淼)</font></b></font>
     <p>
         <font face="Arial">
         <p> PhD student </p>
