@@ -47,7 +47,7 @@ modify_date: 2021-02-17
 
 #### Brief Bio
 
-I'm currently a PhD student at School of Computer Science and Information Systems, where I get onboard at the end of 2020. Previously, I got my master's degree in July 2020 from School of Computer Science and Technology, University of Chinese Academy of Sciences ([UCAS](https://english.ucas.ac.cn/)). studying at the Institute of Software, Chinese Academy of Sciences ([ISCAS](http://english.is.cas.cn/)). Prior to ISCAS, I obtained my Bachelor's degree in School of Software, Northeastern University ([NEU](http://english.neu.edu.cn/)) in 2017. More information about me is [here](https://oaimli.github.io/files/CV_MiaoLi.pdf).
+I'm currently a PhD student at School of Computer Science and Information Systems, The University of Melbourne ([UoM](https://www.unimelb.edu.au/)), where I got enrolment at the end of 2020. Previously, I studied at the Institute of Software, Chinese Academy of Sciences ([ISCAS](http://english.is.cas.cn/)) and got a Mater's degree in July 2020 from University of Chinese Academy of Sciences ([UCAS](https://english.ucas.ac.cn/)). Prior to ISCAS, I obtained my Bachelor's degree in School of Software, Northeastern University ([NEU](http://english.neu.edu.cn/)) in 2017. Please refer to the short [CV](https://oaimli.github.io/files/CV_MiaoLi.pdf) about more information.
 
 My research interests fall in developing machine learning models for natural language processing and text mining. The current research has been focusing on knowledge representation learning, and knowledge-aware natural language processing.
 
