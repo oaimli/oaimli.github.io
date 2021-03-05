@@ -32,7 +32,7 @@ modify_date: 2021-02-17
     <font face="Arial"> <b><font size="6.5">Miao LI (李淼)</font></b></font>
     <p>
         <font face="Arial">
-        <p> PhD student in NLP&ML </p>
+        <p> PhD student in NLP/ML </p>
         <a href="https://cis.unimelb.edu.au/">School of Computer Science and Information Systems</a>,<br> 
         <a href="https://www.unimelb.edu.au/">The University of Melbourne</a><br>
         Phone: (+86) 188-1070-7818 <br>
@@ -47,11 +47,11 @@ modify_date: 2021-02-17
 
 #### Brief Bio
 
-I'm currently a PhD student at School of Computer Science and Information Systems, The University of Melbourne ([UoM](https://www.unimelb.edu.au/)), where I got enrolment at the end of 2020. Previously, I studied at the Institute of Software, Chinese Academy of Sciences ([ISCAS](http://english.is.cas.cn/)) and got a Mater's degree in July 2020 from University of Chinese Academy of Sciences ([UCAS](https://english.ucas.ac.cn/)). Prior to ISCAS, I obtained my Bachelor's degree in Northeastern University ([NEU](http://english.neu.edu.cn/)) in 2017. Please refer to the short [CV](https://oaimli.github.io/files/CV_MiaoLi.pdf) about more information.
+I'm currently a PhD student at School of Computer Science and Information Systems, The University of Melbourne ([UoM](https://www.unimelb.edu.au/)), where I got enrolment at the end of 2020. Previously, I studied at the Institute of Software, Chinese Academy of Sciences ([ISCAS](http://english.is.cas.cn/)) and got the Mater's degree in July 2020 from University of Chinese Academy of Sciences ([UCAS](https://english.ucas.ac.cn/)). Prior to studying at ISCAS, I obtained my Bachelor's degree in Northeastern University ([NEU](http://english.neu.edu.cn/)) in 2017.
 
 #### Research Interests
 
-My research interests fall in developing machine learning models for natural language processing and text mining. The current research has been focusing on knowledge representation learning, and knowledge-aware natural language processing.
+My research interests fall in developing machine learning models for natural language processing and text mining. The current research has been focusing on knowledge representation and reasoning, and integrating them into natural language processing.
 
 #### Selected Publications
 
