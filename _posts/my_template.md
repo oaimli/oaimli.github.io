@@ -7,19 +7,14 @@ mathjax: true
 ---
 
 >转载请标明出处：  
->https://seektech.github.io/ [**Miao LI (seektech)**](https://seektech.github.io)
+>https://oaimli.github.io/ [**Miao LI**](https://oaimli.github.io)
+>
+
+### [](#header-1)一、标题一
+
+**step 1:** 步骤1
 
 
-完全使用命令行操作`GitHub`,学习笔记，持续更新
-
-### [](#header-2)一、将新创建的本地代码上传到github上
-
-**step 1:** 建立本地版本仓库，cd到要进行版本管理的project目录下，假设project名称为MiaoLI，执行完该命令后，当前目录下多了一个隐藏的.git文件夹
-
-```js
-cd /MiaoLI
-git init
-```
 
 ### [](#header-2)二、从github上clone代码，添加文件或者修改文件后提交
 
@@ -28,5 +23,3 @@ git init
 ```js
 git clone ...
 ```
-
-该文章已同步至[CSDN](http://blog.csdn.net/u013413471/article/)  
