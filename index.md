@@ -51,7 +51,7 @@ I'm currently a PhD student at School of Computing and Information Systems, The 
 
 #### Research Interests
 
-My research interests fall in developing machine learning models for natural language processing and text mining. The current research has been focusing on knowledge representation and reasoning enhanced natural language processing.
+My research interests fall in developing machine learning models for natural language processing and text mining. The current research has been focusing on knowledge representation and reasoning enhanced text generation.
 
 #### Selected Publications
 
