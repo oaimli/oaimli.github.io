@@ -70,7 +70,7 @@ My research interests fall in developing machine learning models for natural lan
 - Excellent Student Cadre, University of Chinese Academy of Sciences, twice on June 2018&2019
 - Outstanding Graduate, Northeastern University, June 2017
 - Outstanding graduate thesis Award, Northeastern University, July 2017
-- The First prize scholarship, Northeastern University, twice on September 2015&2016
+- The First Prize Scholarship, Northeastern University, twice on September 2015&2016
 - National Encouragement Scholarship, Education Ministry of China, twice on October 2015&2016
 - Excellent Student Cadre, Northeastern University, twice on October 2015&2016
 
