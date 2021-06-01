@@ -35,7 +35,6 @@ modify_date: 2021-03-30
         <p> PhD student in NLP/ML </p>
         <a href="https://cis.unimelb.edu.au/">School of Computing and Information Systems</a>,<br> 
         <a href="https://www.unimelb.edu.au/">The University of Melbourne</a><br>
-        <br>
         Phone: <font size="3">(+86)188-1070-7818</font><br>
         Email: <font size="3">miaoli DOT cs AT gmail DOT com</font><br>
         </font>
