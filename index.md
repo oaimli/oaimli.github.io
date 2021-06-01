@@ -35,7 +35,7 @@ modify_date: 2021-03-30
         <p> PhD student in NLP/ML </p>
         <a href="https://cis.unimelb.edu.au/">School of Computing and Information Systems</a>,<br> 
         <a href="https://www.unimelb.edu.au/">The University of Melbourne</a><br>
-        Phone: (+86) 188-1070-7818 <br>
+        <br>
         Email: <font size="3">miaoli DOT cs AT gmail DOT com</font><br>
         </font>
    </p>
@@ -47,7 +47,7 @@ modify_date: 2021-03-30
 
 #### Brief Bio
 
-I'm currently a PhD student at School of Computing and Information Systems, The University of Melbourne ([UoM](https://www.unimelb.edu.au/)), where I got enrolment at the end of 2020. Previously, I studied at the Institute of Software, Chinese Academy of Sciences ([ISCAS](http://english.is.cas.cn/)) and got the Master's degree in July 2020 from University of Chinese Academy of Sciences ([UCAS](https://english.ucas.ac.cn/)). Prior to studying at ISCAS, I obtained my Bachelor's degree in Northeastern University ([NEU](http://english.neu.edu.cn/)) in 2017.
+I'm currently a PhD student at School of Computing and Information Systems, The University of Melbourne ([UoM](https://www.unimelb.edu.au/)), where I got enrolment at the end of 2020. Previously, after obtaining the Bachelor's degree in Northeastern University ([NEU](http://english.neu.edu.cn/)) in 2017, I studied as an exam-exempted postgraduate at the Institute of Software, Chinese Academy of Sciences ([ISCAS](http://english.is.cas.cn/)) and got the Master's degree in July 2020 from University of Chinese Academy of Sciences ([UCAS](https://english.ucas.ac.cn/)). 
 
 #### Research Interests
 
