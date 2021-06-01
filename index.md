@@ -75,7 +75,7 @@ My research interests fall in developing machine learning models for natural lan
 - Excellent Student Cadre, Northeastern University, twice on October 2015&2016
 
 
-Note: please watch my notes about machine learning, natural language processing and text mining at [Zhihu](https://www.zhihu.com/people/oaimli/posts).
+Note: please read my notes about machine learning, natural language processing and text mining at [Zhihu](https://www.zhihu.com/people/oaimli/posts).
 
 
 
