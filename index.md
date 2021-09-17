@@ -25,7 +25,7 @@ modify_date: 2021-03-30
 <tr>
 <td width="280" align="center">
     <div style="float:center">
-      <img src="files/半身-白.png" width="250">
+      <img src="files/半身_白.png" width="250">
     </div>
 </td>
 <td>
