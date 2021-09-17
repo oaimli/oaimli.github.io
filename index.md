@@ -25,7 +25,7 @@ modify_date: 2021-03-30
 <tr>
 <td width="280" align="center">
     <div style="float:center">
-      <img src="files/ava.png" width="250">
+      <img src="files/半身-白.png" width="250">
     </div>
 </td>
 <td>
@@ -75,6 +75,9 @@ My research interests fall in developing machine learning models for natural lan
 - National Encouragement Scholarship, Education Ministry of China, twice on October 2015&2016
 - Excellent Student Cadre, Northeastern University, twice on October 2015&2016
 
+#### Professional Services
+
+- External reviewer for WSDM 2022
 
 Note: please read my notes about machine learning, natural language processing and text mining at [Zhihu](https://www.zhihu.com/people/oaimli/posts).
 
