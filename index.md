@@ -56,7 +56,7 @@ My research interests fall in developing machine learning models for natural lan
 
 #### Selected Publications
 
-- Rui Zhang, Bayu Distiawan Trisedy, ***Miao Li***, Yong Jiang, Jianzhong Qi. A Comprehensive Survey on Knowledge Graph Entity Alignment via Representation Learning (preprint). [PDF](https://arxiv.org/abs/2103.15059)
+- Rui Zhang, Bayu Distiawan Trisedy, ***Miao Li***, Yong Jiang, Jianzhong Qi. A Comprehensive Survey on Knowledge Graph Entity Alignment via Representation Learning (preprint). [PDF](https://arxiv.org/abs/2103.15059) [Code](https://github.com/ruizhang-ai/EA_for_KG)
 - Hongyin Tang, ***Miao Li***, Beihong Jin. A Topic Augmented Text Generation Model: Joint Learning of Semantics and Structural features (EMNLP 2019, CCF Rank B). [PDF](https://www.aclweb.org/anthology/D19-1513/), [appendix](https://oaimli.github.io/files/paper_at_emnlp2019_appendix.pdf)
 - ***Miao Li***,  Hongyin Tang, Beihong Jin, Chengqing Zong. A New Effective Neural Variational Model with Mixture-of-Gaussians Prior for Text Clustering (ICTAI 2019, CCF Rank C). [PDF](https://oaimli.github.io/files/paper_at_ictai2019.pdf) 
 - ***Miao Li***, Hongyin Tang, Beihong Jin. Clustering Large-Scale Origin-Destination Pairs: A Case Study for Public Transit in Beijing (UIC 2018, CCF Rank C). [PDF](https://ieeexplore.ieee.org/document/8560115) 
