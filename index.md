@@ -37,7 +37,7 @@ modify_date: 2021-03-30
         <a href="https://www.unimelb.edu.au/">The University of Melbourne</a><br>
         Phone: <font size="3">(+86)188-1070-7818</font><br>
         Email(preferred): <font size="3">miaoli DOT cs AT gmail DOT com</font><br>
-        Email: <font size="3">miao4 AT student DOT unimelb DOT edu DOT cn</font><br>
+        Email: <font size="3">miao4 AT student DOT unimelb DOT edu DOT au</font><br>
         </font>
    </p>
 </td>
