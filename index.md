@@ -48,7 +48,7 @@ modify_date: 2021-03-30
 
 #### Brief Bio
 
-I'm currently a PhD student at School of Computing and Information Systems, The University of Melbourne ([UoM](https://www.unimelb.edu.au/)), where I got enrolment at the end of 2020. Previously, after obtaining the Bachelor's degree in Northeastern University ([NEU](http://english.neu.edu.cn/)) in 2017, I studied as an exam-exempted postgraduate at the Institute of Software, Chinese Academy of Sciences ([ISCAS](http://english.is.cas.cn/)) and got the Master's degree in July 2020 from University of Chinese Academy of Sciences ([UCAS](https://english.ucas.ac.cn/)). 
+I'm currently a PhD student at School of Computing and Information Systems, The University of Melbourne ([UoM](https://www.unimelb.edu.au/)), where I got enrolment at the end of 2020. Previously, after obtaining the Bachelor's degree from Northeastern University ([NEU](http://english.neu.edu.cn/)) in 2017, I studied as an exam-exempted postgraduate at the Institute of Software, Chinese Academy of Sciences ([ISCAS](http://english.is.cas.cn/)) and got the Master's degree in July 2020 from University of Chinese Academy of Sciences ([UCAS](https://english.ucas.ac.cn/)). 
 
 #### Research Interests
 
@@ -66,6 +66,7 @@ My research interests fall in developing machine learning models for natural lan
 
 #### Honors and Awards
 
+- China Scholarship Council - University of Melbourne PhD Scholarship, February 2020
 - National Scholarship for Graduates, Education Ministry of China, November 2018
 - The First Prize Scholarship, University of Chinese Academy of Sciences, October 2018
 - Excellent Student Cadre, University of Chinese Academy of Sciences, twice on June 2018&2019
@@ -79,7 +80,7 @@ My research interests fall in developing machine learning models for natural lan
 
 - External reviewer for WSDM 2022
 
-Note: please read my notes about machine learning, natural language processing and text mining at [Zhihu](https://www.zhihu.com/people/oaimli/posts).
+Note: please read my notes about machine learning, natural language processing and text mining at [Zhihu](https://www.zhihu.com/people/oaimli/posts) in Chinese and [Medium](https://medium.com/@miaoli.cs) in English.
 
 
 
