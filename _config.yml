@@ -42,7 +42,7 @@ author:
   email     : miaoli.cs@gmail.com
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
   twitter   : oaimli # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
-  weibo     : oaimli #3166279202/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1 # "user_id"   the last part of your profile url, e.g. https://www.weibo.com/user_id/profile?...
+  weibo     : oaimli # "user_id"   the last part of your profile url, e.g. https://www.weibo.com/user_id/profile?...
   googleplus: # "user_id"   the last part of your profile url, e.g. https://plus.google.com/u/0/user_id
   telegram  : # "user_name" the last part of your profile url, e.g. https://t.me/user_name
   medium    : oaimli # "user_name" the last part of your profile url, e.g. https://medium.com/user_name
