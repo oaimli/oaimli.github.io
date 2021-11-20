@@ -1,6 +1,5 @@
 ---
 type: article
-title: Welcome to My Blog Site
 key: 2021112001
 tags: Welcome
 mathjax: False
