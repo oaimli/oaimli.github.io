@@ -1,9 +1,10 @@
 ---
 type: article
 key: 2021112001
-tags: Welcome
+tags: Papers
 mathjax: False
-comments: False
+show_title: False
+comment: false
 ---
 
 Welcome to my personal site! There will be a full list of papers. Hope you have a good day!
