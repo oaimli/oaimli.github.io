@@ -1,2 +1,2 @@
-Welcome to Miao LI's Homepage.
+Miao LI's Homepage
 
