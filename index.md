@@ -35,9 +35,8 @@ modify_date: 2021-03-30
         <p> PhD student in NLP/ML </p>
         <a href="https://cis.unimelb.edu.au/">School of Computing and Information Systems</a>,<br> 
         <a href="https://www.unimelb.edu.au/">The University of Melbourne</a><br>
-        Phone: <font size="3">(+86)188-1070-7818</font><br>
-        Email(preferred): <font size="3">miaoli DOT cs AT gmail DOT com</font><br>
-        Email: <font size="3">miao4 AT student DOT unimelb DOT edu DOT au</font><br>
+        Email (preferred): <font size="3">miaoli DOT cs AT gmail DOT com</font><br>
+        Email (UniMelb): <font size="3">miao4 AT student DOT unimelb DOT edu DOT au</font><br>
         </font>
    </p>
 </td>
@@ -48,11 +47,11 @@ modify_date: 2021-03-30
 
 #### Brief Bio
 
-I'm currently a PhD student at School of Computing and Information Systems, The University of Melbourne ([UoM](https://www.unimelb.edu.au/)), where I got enrolment at the end of 2020. Previously, after obtaining the Bachelor's degree from Northeastern University ([NEU](http://english.neu.edu.cn/)) in 2017, I studied as an exam-exempted postgraduate at the Institute of Software, Chinese Academy of Sciences ([ISCAS](http://english.is.cas.cn/)) and got the Master's degree in July 2020 from University of Chinese Academy of Sciences ([UCAS](https://english.ucas.ac.cn/)). 
+I'm currently a PhD candidate at School of Computing and Information Systems, The University of Melbourne ([UoM](https://www.unimelb.edu.au/)), where I got enrolment at the end of 2020. Previously, after obtaining B.E. from Northeastern University ([NEU](http://english.neu.edu.cn/)) in 2017, I studied as an exam-exempted master student at the Institute of Software, Chinese Academy of Sciences ([ISCAS](http://english.is.cas.cn/)) and got M.E. in July 2020 from University of Chinese Academy of Sciences ([UCAS](https://english.ucas.ac.cn/)). 
 
 #### Research Interests
 
-My research interests fall in developing machine learning models for natural language processing and text mining. The current research focuses on knowledge enhanced text generation, especially neural abstractive summarization.
+My research interests fall in developing machine learning models for natural language processing and text mining. The current research focuses on knowledge enhanced natural language generation, especially neural abstractive summarization with input of multiple documents.
 
 #### Selected Publications
 
