@@ -36,7 +36,7 @@ modify_date: 2021-03-30
         <a href="https://cis.unimelb.edu.au/">School of Computing and Information Systems</a>,<br> 
         <a href="https://www.unimelb.edu.au/">The University of Melbourne</a><br>
         Email (preferred): <font size="3">miaoli DOT cs AT gmail DOT com</font><br>
-        Email (UniMelb): <font size="3">miao4 AT student DOT unimelb DOT edu DOT au</font><br>
+        Email (unimelb): <font size="3">miao4 AT student DOT unimelb DOT edu DOT au</font><br>
         </font>
    </p>
 </td>
