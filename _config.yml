@@ -220,4 +220,5 @@ plugins:
 # add folder blogs and move index.html into it, change navigation to /blogs/ to make Posts be the page of blogs.
 # change _data/navigation.yml 
 # delete header from _includes/header.html
-# change _config, home->/blogs/  and  paginate_path: /page:num->paginate_path: /blogs/page:num  
+# change _config, home->/blogs/  and  paginate_path: /page:num->paginate_path: /blogs/page:num
+# change blogs/paper-list.md, this file can be included as the full version of paper list, https://oaimli.github.io/blogs/paper-list
