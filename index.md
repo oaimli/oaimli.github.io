@@ -51,14 +51,17 @@ My research interests fall in developing machine learning models for natural lan
 #### Honors and Awards
 
 - China Scholarship Council - University of Melbourne PhD Scholarship, February 2020
+- Excellent Student Cadre, University of Chinese Academy of Sciences, June 2019
 - National Scholarship for Graduates, Education Ministry of China, November 2018
 - The First Prize Scholarship, University of Chinese Academy of Sciences, October 2018
-- Excellent Student Cadre, University of Chinese Academy of Sciences, twice on June 2018&2019
+- Excellent Student Cadre, University of Chinese Academy of Sciences, June 2018
 - Outstanding Graduate, Northeastern University, June 2017
 - Outstanding graduate thesis Award, Northeastern University, July 2017
-- The First Prize Scholarship, Northeastern University, twice on September 2015&2016
-- National Encouragement Scholarship, Education Ministry of China, twice on October 2015&2016
-- Excellent Student Cadre, Northeastern University, twice on October 2015&2016
+- The First Prize Scholarship, Northeastern University, September 2016
+- National Encouragement Scholarship, Education Ministry of China, October 2016
+- The First Prize Scholarship, Northeastern University, September 2015
+- National Encouragement Scholarship, Education Ministry of China, October 2015
+- Excellent Student Cadre, Northeastern University, October 2015
 
 #### Professional Services
 
