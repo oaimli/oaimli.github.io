@@ -20,8 +20,8 @@ modify_date: 2021-11-21
         <p> PhD candidate in NLP/ML </p>
         <a href="https://cis.unimelb.edu.au/">School of Computing and Information Systems</a>,<br> 
         <a href="https://www.unimelb.edu.au/">The University of Melbourne</a><br>
-        Email (preferred): <font size="3">miaoli DOT cs AT gmail DOT com</font><br>
-        Email (unimelb): <font size="3">miao4 AT student DOT unimelb DOT edu DOT au</font><br>
+        Email (preferred): <font size="3">miaoli DOT cs ATT gmail DOT com</font><br>
+        Email (unimelb): <font size="3">miao4 ATT student DOT unimelb DOT edu DOT au</font><br>
         </font>
    </p>
 </td>
