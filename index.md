@@ -44,7 +44,7 @@ My research interests fall in developing machine learning models for natural lan
 - Hongyin Tang, ***Miao Li***, Beihong Jin. A Topic Augmented Text Generation Model: Joint Learning of Semantics and Structural features (EMNLP 2019, CCF Rank B). [pdf](https://www.aclweb.org/anthology/D19-1513/), [appendix](https://oaimli.github.io/files/paper_at_emnlp2019_appendix.pdf)
 - ***Miao Li***,  Hongyin Tang, Beihong Jin, Chengqing Zong. A New Effective Neural Variational Model with Mixture-of-Gaussians Prior for Text Clustering (ICTAI 2019, CCF Rank C). [pdf](https://oaimli.github.io/files/paper_at_ictai2019.pdf) 
 - ***Miao Li***, Hongyin Tang, Beihong Jin. Clustering Large-Scale Origin-Destination Pairs: A Case Study for Public Transit in Beijing (UIC 2018, CCF Rank C). [pdf](https://ieeexplore.ieee.org/document/8560115) 
-- Software copyright of an Android App for healthcare, No.2016SR133938, June 2016. [pdf](https://oaimli.github.io/files/software_copyright.pdf)
+- Software copyright of an Android App for healthcare (No.2016SR133938), granted by Chinese National Copyright Administration, June 2016.
 
 #### Projects
 
