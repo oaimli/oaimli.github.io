@@ -39,7 +39,6 @@ I'm currently studying for the Ph.D. at School of Computing and Information Syst
 My research interests fall in developing machine learning models for natural language processing and text mining. The current research focuses on knowledge enhanced natural language generation, especially neural abstractive summarization.
 
 #### Selected Publications
-; This is a comment. Use the link https://oaimli.github.io/blogs/paper-list to add the full list of papers.
 
 - Rui Zhang, Bayu Distiawan Trisedy, ***Miao Li***, Yong Jiang, Jianzhong Qi. A Comprehensive Survey on Knowledge Graph Entity Alignment via Representation Learning (preprint). [pdf](https://arxiv.org/abs/2103.15059), [code](https://github.com/ruizhang-ai/EA_for_KG)
 - Hongyin Tang, ***Miao Li***, Beihong Jin. A Topic Augmented Text Generation Model: Joint Learning of Semantics and Structural features (EMNLP 2019, CCF Rank B). [pdf](https://www.aclweb.org/anthology/D19-1513/), [appendix](https://oaimli.github.io/files/paper_at_emnlp2019_appendix.pdf)
