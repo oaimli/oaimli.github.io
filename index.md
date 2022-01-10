@@ -32,7 +32,7 @@ modify_date: 2021-12-21
 
 #### Brief Bio
 
-I'm currently a PhD student at School of Computing and Information Systems, The University of Melbourne ([UoM](https://www.unimelb.edu.au/)), where I started the PhD journey at the end of 2020. Previously, after obtaining B.E. from Northeastern University ([NEU](http://english.neu.edu.cn/)) in 2017, I studied as an exam-exempted master student at the Institute of Software, Chinese Academy of Sciences ([ISCAS](http://english.is.cas.cn/)) and got M.Sc. in July 2020 from University of Chinese Academy of Sciences ([UCAS](https://english.ucas.ac.cn/)). 
+I'm currently studying for the Ph.D. at School of Computing and Information Systems, The University of Melbourne ([UoM](https://www.unimelb.edu.au/)), where I started the PhD journey at the end of 2020. Previously, after obtaining B.E. from Northeastern University (NEU) in 2017, I studied as an exam-exempted master student at State Key Laboratory of Computer Science in China and got M.Sc. in July 2020 from Chinese Academy of Sciences (CAS). 
 
 #### Research Interests
 
