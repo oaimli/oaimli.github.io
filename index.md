@@ -14,7 +14,7 @@ modify_date: 2021-12-21
     </div>
 </td>
 <td>
-    <font face="Arial"> <b><font size="6.5">Miao L (李淼)</font></b></font>
+    <font face="Arial"> <b><font size="6.5">Miao Li (李淼)</font></b></font>
     <p>
         <font face="Arial">
         <p> PhD student in NLP/ML </p>
