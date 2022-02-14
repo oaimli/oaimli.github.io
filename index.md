@@ -65,7 +65,7 @@ My research interests fall in developing machine learning models for natural lan
 
 #### Professional Services
 
-- External reviewer for WSDM'22, and SIGIR'22
+- External reviewer for WSDM 2022, and SIGIR 2022
 - Reviewer for ACL Rolliing Review (2021 - Present)
 
 Note: please read my notes about machine learning, natural language processing and text mining at [Zhihu](https://www.zhihu.com/people/oaimli/posts) in Chinese and [Medium](https://medium.com/@miaoli.cs) in English.
