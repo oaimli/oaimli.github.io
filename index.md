@@ -37,7 +37,7 @@ I'm currently studying for the Ph.D. at School of Computing and Information Syst
 
 #### Research Interests
 
-My research interests fall in developing machine learning models for natural language processing and text mining. The current research focuses on knowledge enhanced natural language generation, particularly neural abstractive summarization.
+My research interests fall in developing computational models, especially deep neural networks, for natural language processing and text mining. The PhD research focuses on neural abstractive summarization which aims to generate high-quality text summaries of the source documents in an abstractive fashion.
 
 #### Selected Publications
 
