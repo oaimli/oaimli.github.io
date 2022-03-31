@@ -48,8 +48,6 @@ My research interests fall in developing machine learning models, especially dee
 - ***Miao Li***, Hongyin Tang, Beihong Jin. Clustering Large-Scale Origin-Destination Pairs: A Case Study for Public Transit in Beijing (UIC 2018, CCF Rank C). [pdf](https://ieeexplore.ieee.org/document/8560115) 
 - Software copyright of an Android App for healthcare (No.2016SR133938), granted by Chinese National Copyright Administration, June 2016.
 
-#### Projects
-
 #### Honors and Awards
 
 - China Scholarship Council - University of Melbourne PhD Scholarship, February 2020
