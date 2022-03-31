@@ -3,7 +3,7 @@ layout: article
 show_title: False
 key: page-about
 comment: false
-modify_date: 2022-02-23
+modify_date: 2022-03-31
 ---
 
 <table>
@@ -37,11 +37,12 @@ I'm currently studying for the Ph.D. at School of Computing and Information Syst
 
 #### Research Interests
 
-My research interests fall in developing computational models, especially deep neural networks, for natural language processing and text mining. The current PhD research focuses on neural abstractive summarization which aims to generate high-quality textual summaries of the source input, e.g., single or multiple documents and maybe in multiple modalities, in an abstractive fashion.
+My research interests fall in developing machine learning models, especially deep neural networks, for natural language processing and text mining. The current PhD research focuses on neural abstractive summarization which aims to generate high-quality textual summaries of the source input, e.g., single or multiple documents and maybe in multiple modalities, in an abstractive fashion.
 
 #### Selected Publications
 
-- Rui Zhang, Bayu Distiawan Trisedy, ***Miao Li***, Yong Jiang, Jianzhong Qi. A Comprehensive Survey on Knowledge Graph Entity Alignment via Representation Learning. to appear in VLDB Journal, 2022. [pdf](https://arxiv.org/abs/2103.15059), [code](https://github.com/ruizhang-ai/EA_for_KG)
+- Mengxue Zhao, Yang Yang, ***Miao Li***, Jingang Wang, Wei Wu, Pengjie Ren, Maarten de Rijke and Zhaochun Ren. Personalized Abstractive Opinion Tagging. accepted to appear in SIGIR, 2022. 
+- Rui Zhang, Bayu Distiawan Trisedy, ***Miao Li***, Yong Jiang, Jianzhong Qi. A Comprehensive Survey on Knowledge Graph Entity Alignment via Representation Learning. accepted to appear in VLDB Journal, 2022. [pdf](https://arxiv.org/abs/2103.15059), [code](https://github.com/ruizhang-ai/EA_for_KG)
 - Hongyin Tang, ***Miao Li***, Beihong Jin. A Topic Augmented Text Generation Model: Joint Learning of Semantics and Structural features (EMNLP 2019, CCF Rank B). [pdf](https://www.aclweb.org/anthology/D19-1513/), [appendix](https://oaimli.github.io/files/paper_at_emnlp2019_appendix.pdf)
 - ***Miao Li***,  Hongyin Tang, Beihong Jin, Chengqing Zong. A New Effective Neural Variational Model with Mixture-of-Gaussians Prior for Text Clustering (ICTAI 2019, CCF Rank C). [pdf](https://oaimli.github.io/files/paper_at_ictai2019.pdf) 
 - ***Miao Li***, Hongyin Tang, Beihong Jin. Clustering Large-Scale Origin-Destination Pairs: A Case Study for Public Transit in Beijing (UIC 2018, CCF Rank C). [pdf](https://ieeexplore.ieee.org/document/8560115) 
@@ -66,7 +67,7 @@ My research interests fall in developing computational models, especially deep n
 
 #### Professional Services
 
-- External reviewer for WSDM 2022, SIGIR 2022, and SIGKDD 2022
+- Subreviewer for WSDM 2022, SIGIR 2022, and SIGKDD 2022
 - Reviewer for ACL Rolliing Review (2021 - Present)
 
 Note: please read my notes about machine learning, natural language processing and text mining at [Zhihu](https://www.zhihu.com/people/oaimli/posts) in Chinese and [Medium](https://medium.com/@miaoli.cs) in English.
