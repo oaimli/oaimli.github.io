@@ -58,9 +58,9 @@ My research interests fall in developing machine learning models, especially dee
 - Outstanding Graduate, Northeastern University, June 2017
 - Outstanding graduate thesis Award, Northeastern University, July 2017
 - The First Prize Scholarship, Northeastern University, September 2016
-- National Encouragement Scholarship, Education Ministry of China, October 2016
+- National Scholarship, Education Ministry of China, October 2016
 - The First Prize Scholarship, Northeastern University, September 2015
-- National Encouragement Scholarship, Education Ministry of China, October 2015
+- National Scholarship, Education Ministry of China, October 2015
 - Excellent Student Cadre, Northeastern University, October 2015
 
 #### Professional Services
