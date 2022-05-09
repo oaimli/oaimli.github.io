@@ -68,7 +68,7 @@ My research interests fall in developing machine learning models mainly with dee
 - Subreviewer for WSDM 2022, SIGIR 2022, and SIGKDD 2022
 - Reviewer for ACL Rolliing Review (2021 - Present)
 
-Note: please read my notes about machine learning, natural language processing and text mining at [Zhihu](https://www.zhihu.com/people/oaimli/posts) in Chinese and [Medium](https://medium.com/@miaoli.cs) in English.
+Note: please read my notes about machine learning, natural language processing and text mining at [Zhihu](https://www.zhihu.com/people/oaimli/posts) in Chinese and [Medium](https://medium.com/@oaimli) in English.
 
 
 
