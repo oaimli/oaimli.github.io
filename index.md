@@ -41,6 +41,7 @@ My research interests fall in developing machine learning models mainly with dee
 
 #### Selected Publications
 
+- ***Miao Li***, Jey Han Lau, Jianzhong Qi. PeerSum: A Peer Review Dataset for Abstractive Multi-document Summarization. Preprint, 2022. [pdf](https://arxiv.org/abs/2203.01769), [code](https://github.com/oaimli/PeerSum)
 - Mengxue Zhao, Yang Yang, ***Miao Li***, Jingang Wang, Wei Wu, Pengjie Ren, Maarten de Rijke and Zhaochun Ren. Personalized Abstractive Opinion Tagging. accepted to appear in SIGIR, 2022. 
 - Rui Zhang, Bayu Distiawan Trisedy, ***Miao Li***, Yong Jiang, Jianzhong Qi. A Comprehensive Survey on Knowledge Graph Entity Alignment via Representation Learning. accepted to appear in VLDB Journal, 2022. [pdf](https://arxiv.org/abs/2103.15059), [code](https://github.com/ruizhang-ai/EA_for_KG)
 - Hongyin Tang, ***Miao Li***, Beihong Jin. A Topic Augmented Text Generation Model: Joint Learning of Semantics and Structural Features (EMNLP 2019, CCF Rank B). [pdf](https://www.aclweb.org/anthology/D19-1513/), [appendix](https://oaimli.github.io/files/paper_at_emnlp2019_appendix.pdf)
