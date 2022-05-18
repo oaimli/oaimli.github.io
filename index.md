@@ -66,6 +66,7 @@ My research interests fall in developing machine learning models mainly with dee
 
 #### Professional Services
 
+- Reviewer committee, NLPCC 2022
 - Subreviewer for WSDM 2022, SIGIR 2022, and SIGKDD 2022
 - Reviewer for ACL Rolliing Review (2021 - Present)
 
