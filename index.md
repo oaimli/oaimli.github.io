@@ -17,7 +17,7 @@ modify_date: 2022-04-01
     <font face="Arial"> <b><font size="6.5">Miao Li (李淼)</font></b></font>
     <p>
         <font face="Arial">
-        <p> PhD Candidate in NLP/ML </p>
+        <p> PhD candidate in NLP/ML </p>
         <a href="https://cis.unimelb.edu.au/">School of Computing and Information Systems</a>,<br> 
         <a href="https://www.unimelb.edu.au/">The University of Melbourne</a><br>
         Email (preferred): <font size="3">miaoli.cs [at] gmail.com</font><br>
