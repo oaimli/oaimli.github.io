@@ -33,7 +33,7 @@ modify_date: 2022-06-01
 
 #### Brief Bio
 
-I'm currently studying for the Ph.D. at School of Computing and Information Systems, The University of Melbourne (UoM), where I commenced in December 2020. Previously, after obtaining B.E. from Northeastern University (NEU) in 2017, I studied as an exam-exempted master student in State Key Laboratory of Computer Science in China and got M.Sc. in July 2020 from Chinese Academy of Sciences (CAS). 
+I'm currently a PhD candidate at School of Computing and Information Systems, The University of Melbourne (UoM), working with [AI-NLP Group](https://cis.unimelb.edu.au/research/artificial-intelligence/Natural-Language-Processing). I commenced at UoM in December 2020. Previously, after obtaining B.E. from Northeastern University (NEU) in 2017, I studied as an exam-exempted master student in State Key Laboratory of Computer Science in China and got M.Sc. in July 2020 from Chinese Academy of Sciences (CAS). 
 
 #### Research Interests
 
