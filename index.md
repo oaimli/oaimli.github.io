@@ -33,7 +33,7 @@ modify_date: 2022-06-01
 
 #### Brief Bio
 
-I'm currently studying for the Ph.D. at School of Computing and Information Systems, The University of Melbourne (UoM), where I commenced in December 2020. Previously, after obtaining B.E. from Northeastern University (NEU) in 2017, I studied as an exam-exempted master student in State Key Laboratory of Computer Science in China and got M.Sc. in July 2020 from Chinese Academy of Sciences (CAS). 
+I'm currently studying for the Ph.D. working with the [NLP group](https://cis.unimelb.edu.au/research/artificial-intelligence/Natural-Language-Processing) at School of Computing and Information Systems, The University of Melbourne (UoM), where I commenced in December 2020. Previously, after obtaining B.E. from Northeastern University (NEU) in 2017, I studied as an exam-exempted master student in State Key Laboratory of Computer Science in China and got M.Sc. in July 2020 from Chinese Academy of Sciences (CAS). 
 
 #### Research Interests
 
@@ -41,7 +41,7 @@ My research interest falls in developing machine learning models mainly with dee
 
 #### Selected Publications
 
-- ***Miao Li***, Jey Han Lau, Jianzhong Qi. PeerSum: A Peer Review Dataset for Abstractive Multi-document Summarization. Preprint, 2022. [pdf](https://arxiv.org/abs/2203.01769), [code](https://github.com/oaimli/PeerSum), [dataset](https://github.com/oaimli/PeerSum)
+- ***Miao Li***, Jianzhong Qi, Jey Han Lau. PeerSum: A Peer Review Dataset for Abstractive Multi-document Summarization. Preprint, 2022. [pdf](https://arxiv.org/abs/2203.01769), [code](https://github.com/oaimli/PeerSum), [dataset](https://github.com/oaimli/PeerSum)
 - Mengxue Zhao, Yang Yang, ***Miao Li***, Jingang Wang, Wei Wu, Pengjie Ren, Maarten de Rijke and Zhaochun Ren. Personalized Abstractive Opinion Tagging. accepted to appear in SIGIR, 2022. [pdf](https://staff.fnwi.uva.nl/m.derijke/wp-content/papercite-data/pdf/zhao-2022-personalized.pdf)
 - Rui Zhang, Bayu Distiawan Trisedy, ***Miao Li***, Yong Jiang, Jianzhong Qi. A Comprehensive Survey on Knowledge Graph Entity Alignment via Representation Learning. (VLDB Journal 2022, CCF Rank A). [pdf](https://arxiv.org/abs/2103.15059), [code](https://github.com/ruizhang-ai/EA_for_KG)
 - Hongyin Tang, ***Miao Li***, Beihong Jin. A Topic Augmented Text Generation Model: Joint Learning of Semantics and Structural Features (EMNLP 2019, CCF Rank B). [pdf](https://www.aclweb.org/anthology/D19-1513/), [appendix](https://oaimli.github.io/files/paper_at_emnlp2019_appendix.pdf)
