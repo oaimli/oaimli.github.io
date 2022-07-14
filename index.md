@@ -8,13 +8,13 @@ modify_date: 2022-06-01
 
 <table>
 <tr>
-<td width="250" align="center">
+<td width="280" align="center">
     <div style="float:center">
-      <img src="files/ava.png" width="250">
+      <img src="files/ava.png" width="240">
     </div>
 </td>
 <td>
-    <font face="Arial"> <b><font size="5">Miao Li (李淼)</font></b></font>
+    <font face="Arial"> <b><font size="5.5">Miao Li (李淼)</font></b></font>
     <p>
         <font face="Arial">
         <p> PhD candidate in NLP/ML </p>
