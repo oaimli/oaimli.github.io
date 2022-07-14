@@ -8,9 +8,9 @@ modify_date: 2022-06-01
 
 <table>
 <tr>
-<td width="250" align="center">
+<td width="280" align="center">
     <div style="float:center">
-      <img src="files/ava.png" width="230">
+      <img src="files/ava.png" width="250">
     </div>
 </td>
 <td>
