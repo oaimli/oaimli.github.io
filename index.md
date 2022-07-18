@@ -19,10 +19,10 @@ modify_date: 2022-06-01
         <font face="Arial">
         <font size="6">Miao Li</font><font size="4.5"> (Ryan, 李淼)</font></br>
         <font size="3">PhD candidate in NLP/ML</font><br>
-        <a href="https://cis.unimelb.edu.au/">School of Computing and Information Systems</a>,<br> 
-        <a href="https://www.unimelb.edu.au/">The University of Melbourne</a><br>
-        Email (preferred): <font size="3">prefix.cs@gmail.com, prefix=miaoli</font><br>
-        Email (UoM): <font size="3">prefix@student.unimelb.edu.au, prefix=miao4</font><br>
+        <a href="https://cis.unimelb.edu.au/">School of Computing and Information Systems</a>,</br> 
+        <a href="https://www.unimelb.edu.au/">The University of Melbourne</a></br>
+        Email (preferred): <font size="3">prefix.cs@gmail.com, prefix=miaoli</font></br>
+        Email (UoM): <font size="3">prefix@student.unimelb.edu.au, prefix=miao4</font></br>
         Address: Melbourne Connect, 700 Swanston Street, Carlton, VIC 3053
         </font>
    </p>
