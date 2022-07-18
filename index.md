@@ -14,7 +14,7 @@ modify_date: 2022-06-01
     </div>
 </td>
 <td>
-    <font face="Arial"> <b><font size="6">Miao Li</font><font size="4.5"> (Ryan, 李淼)</font></b></font>
+    <font face="Arial"> <b><font size="6">Miao Li</font><font size="4.5"> (Ryan, 李淼)</font></b></font><br>
     <p>
         <font face="Arial">
         <b> PhD candidate in NLP/ML </b><br><br>
