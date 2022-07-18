@@ -8,13 +8,12 @@ modify_date: 2022-06-01
 
 <table>
 <tr>
-<td width="280" align="center">
+<td width="250" align="center">
     <div style="float:center">
-      <img src="files/ava.png" width="250">
+      <img src="files/ava.png" width="230">
     </div>
 </td>
 <td>
-    <font face="Arial"> </font>
     <p>
         <font face="Arial">
         <b><font size="6">Miao Li</font><font size="4.5"> (李淼, Ryan)</font></b><br>
