@@ -18,7 +18,7 @@ modify_date: 2022-06-01
     <p>
         <br>
         <font face="Arial">
-        <b> PhD candidate in NLP/ML </b><br><br>
+        <font size="3">PhD candidate in NLP/ML</font><br>
         <a href="https://cis.unimelb.edu.au/">School of Computing and Information Systems</a>,<br> 
         <a href="https://www.unimelb.edu.au/">The University of Melbourne</a><br>
         Email (preferred): <font size="3">prefix.cs@gmail.com, prefix=miaoli</font><br>
