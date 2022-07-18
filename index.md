@@ -16,7 +16,6 @@ modify_date: 2022-06-01
 <td>
     <font face="Arial"> <b><font size="6">Miao Li</font><font size="4.5"> (Ryan, 李淼)</font></b></font>
     <p>
-        <br>
         <font face="Arial">
         <font size="3">PhD candidate in NLP/ML</font><br>
         <a href="https://cis.unimelb.edu.au/">School of Computing and Information Systems</a>,<br> 
