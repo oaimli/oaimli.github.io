@@ -20,7 +20,7 @@ text_skin: ocean # "default" (default), "dark", "forest", "ocean", "chocolate", 
 highlight_theme: tomorrow-night-eighties # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : / # does not include hostname
-title   : MIAO LI‘S HOMEPAGE
+title   : Ryan MIAO LI‘S HOMEPAGE
 description: > # this means to ignore newlines until "Language & timezone"
   Whatever is worth doing is worth doing well
 
@@ -36,7 +36,7 @@ timezone: Australia/Melbourne # see https://en.wikipedia.org/wiki/List_of_tz_dat
 author:
   type      : person # "person" (default), "organization"
   name      : Miao Li
-  url       : https://oaimli.github.io/
+  url       : https://ryanmli.github.io/
   avatar    : # path or url of avatar image (square)
   bio       : Whatever is worth doing is worth doing well.
   email     : miaoli.cs@gmail.com
