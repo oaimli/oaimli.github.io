@@ -194,6 +194,3 @@ $$\displaystyle E_{ce}(\mathbf{w})=\sum \limits_{k}J(\mathbf{w})^k=\sum \limits_
 
 $$\displaystyle \frac{\partial E_{ce}(\mathbf{w})}{\partial z_j^k} = -t_j^k/z_j^k$$
 
-
-
-该文章已同步至[CSDN](http://blog.csdn.net/u013413471/article/) 
