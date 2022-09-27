@@ -1,6 +1,6 @@
 default:
   text_skin: default
-  highlight_theme: light
+  highlight_theme: default
   lang: en
   paths:
     root: /
