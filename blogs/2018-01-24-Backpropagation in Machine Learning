@@ -6,9 +6,6 @@ tags: MachineLearning
 mathjax: true
 ---
 
->转载请标明出处：  
->https://seektech.github.io/2018/01/23/误差反向传播(BP)算法.html [**Miao LI (seektech)**](https://seektech.github.io/2018/01/23/误差反向传播(BP)算法.html)
-
 误差反向传播算法是训练神经网络最常用且最基础的算法
 
 这里以三层神经网络为基础，结合不同的准则函数和激活（转移）函数对误差反向传播算法做出详细的计算
