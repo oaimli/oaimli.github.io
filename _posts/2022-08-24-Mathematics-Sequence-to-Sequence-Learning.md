@@ -8,7 +8,7 @@ mathjax: true
 ---
 
 
-完全使用命令行操作`GitHub`,学习笔记，持续更新
+完全使用命令行操作`GitHub`,学习笔记，持续更新dfds
 
 ### [](#header-2)一、将新创建的本地代码上传到github上
 
