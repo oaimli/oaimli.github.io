@@ -1,6 +1,6 @@
 ---
 type: article
-title: 误差反向传播(BP)算法
+title: Backpropagation in Deep Learning
 key: 2018012301
 tags: MachineLearning
 comment: false
