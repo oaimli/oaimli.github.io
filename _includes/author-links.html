@@ -70,7 +70,7 @@
 
     {%- if _author.medium -%}
       <li title="{{ _locale_string_follow | replace: '[NAME]', 'Medium' }}">
-        <a class="button button--circle medium-button" itemprop="sameAs" href="https://medium.com/{{ _author.medium }}" target="_blank">
+        <a class="button button--circle medium-button" itemprop="sameAs" href="https://medium.com/@{{ _author.medium }}" target="_blank">
           <div class="icon">{%- include svg/icon/social/medium.svg -%}</div>
         </a>
       </li>
