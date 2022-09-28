@@ -3,6 +3,7 @@ type: article
 title: Welcome to My Blog Site
 key: 2019082001
 tags: Welcome
+comment:false
 mathjax: False
 ---
 
