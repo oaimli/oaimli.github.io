@@ -11,3 +11,4 @@
 - change _config, home->/blogs/  and  paginate_path: /page:num->paginate_path: /blogs/page:num
 - change blogs/paper-list.md, this file can be included as the full version of paper list, https://oaimli.github.io/blogs/paper-list
 - blogs should be put into _posts
+- copyright dates is in _data/locale.yml
