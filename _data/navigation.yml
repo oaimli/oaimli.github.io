@@ -1,6 +1,6 @@
 header:
   - titles:
-      en: &EN       Posts
+      en: &EN       POSTS
       en-GB: *EN
       en-US: *EN
       en-CA: *EN
@@ -17,7 +17,7 @@ header:
     url: /blogs/
 
   # - titles:
-  #     en      : &EN       Archive
+  #     en      : &EN       ARXIVE
   #     en-GB   : *EN
   #     en-US   : *EN
   #     en-CA   : *EN
