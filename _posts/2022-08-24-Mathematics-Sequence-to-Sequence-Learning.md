@@ -14,10 +14,6 @@ mathjax: true
 
 **step 1:** 建立本地版本仓库，cd到要进行版本管理的project目录下，假设project名称为MiaoLI，执行完该命令后，当前目录下多了一个隐藏的.git文件夹
 
-```js
-cd /MiaoLI
-git init
-```
 
 ### [](#header-2)二、从github上clone代码，添加文件或者修改文件后提交
 
