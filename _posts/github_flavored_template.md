@@ -6,9 +6,6 @@ tags: MachineLearning
 mathjax: true
 ---
 
->转载请标明出处：  
->https://seektech.github.io/ [**Miao LI (seektech)**](https://seektech.github.io)
-
 
 完全使用命令行操作`GitHub`,学习笔记，持续更新
 
@@ -27,6 +24,4 @@ git init
 
 ```js
 git clone ...
-```
-
-该文章已同步至[CSDN](http://blog.csdn.net/u013413471/article/)  
+``` 
