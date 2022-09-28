@@ -1,13 +1,11 @@
 ---
 type: article
-title: 最大似然和贝叶斯参数估计
+title: Maximum Likelihood and Bayesain Parameter Estimation
 key: 2018011601
 tags: MachineLearning ToBeCompleted
+comment: false
 mathjax: true
 ---
-
->转载请标明出处：  
->https://oaimli.github.io/2018/01/16/最大似然和贝叶斯参数估计.html [**Miao LI **]([https://oaimli.github.io/2017/01/16/%E6%9C%80%E5%A4%A7%E4%BC%BC%E7%84%B6%E5%92%8C%E8%B4%9D%E5%8F%B6%E6%96%AF%E5%8F%82%E6%95%B0%E4%BC%B0%E8%AE%A1.html](https://oaimli.github.io/2017/01/16/最大似然和贝叶斯参数估计.html))
 
 概率密度估计的方法：
 
@@ -85,7 +83,7 @@ $$\displaystyle \ln p(\mathbf{x}_k|\pmb\mu)=-\frac{1}{2} \ln [(2\pi)^d|\pmb\Sigm
 
 $$\displaystyle \nabla_{\pmb\mu} \ln p(\mathbf{x}_k|\pmb\mu) =  \pmb\Sigma^{-1}(\mathbf{x}_k-\pmb\mu)$$
 
-``$$\displaystyle \nabla_{\pmb\theta} l =\sum \limits_{k=1}^n \nabla_{\pmb\theta} \ln p(\mathbf{x}_k|\pmb \theta)=\sum \limits_{k=1}^n \pmb\Sigma^{-1}(\mathbf{x}_k-\pmb\mu) = 0$$
+$$\displaystyle \nabla_{\pmb\theta} l =\sum \limits_{k=1}^n \nabla_{\pmb\theta} \ln p(\mathbf{x}_k|\pmb \theta)=\sum \limits_{k=1}^n \pmb\Sigma^{-1}(\mathbf{x}_k-\pmb\mu) = 0$$
 
 方程两边同时乘上$\pmb\Sigma$：
 
