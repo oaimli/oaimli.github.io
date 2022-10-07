@@ -2,7 +2,7 @@
 type: article
 title: Mathematical Modeling in Sequence-to-sequence Learning
 key: 2018011101
-tags: MachineLearning
+tags: MachineLearning, Seq2seq
 comment: false
 mathjax: true
 ---
@@ -11,4 +11,7 @@ Text generation, such as text summarization and story generation, usually aims t
 
 To generate the target text $Y$, there are two types of generation modes: autoregressive and non-autoregressive generation. Autoregressive generation generates words based on the input $X$ and also words generated before, while non-autoregressive generaion generate all words of $Y$ independently at the same time. Here we only talk about autoregressive generation, which is mostly used in the text generation community.
 
-Sequence-to-sequence text generation is formulated as Given the input $X$, auto-regressive generation is 
+Sequence-to-sequence text generation is formulated as $p(Y|X)$. Given the input $X$, based on auto-regressive generation, this conditional probability can derivated into:
+$$
+p(Y|X)=
+$$
