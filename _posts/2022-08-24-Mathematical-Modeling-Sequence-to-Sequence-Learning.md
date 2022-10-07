@@ -2,7 +2,7 @@
 type: article
 title: Mathematical Modeling in Sequence-to-sequence Learning
 key: 2018011101
-tags: MachineLearning, Seq2seq
+tags: MachineLearning Seq2seq
 comment: false
 mathjax: true
 ---
