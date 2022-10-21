@@ -29,7 +29,7 @@ modify_date: 2022-09-30
 </tr>
 </table>
 
-*The supreme happiness of life is the conviction that we are loved.        ------ Victor Hugo*
+*The supreme happiness of life is the conviction that we are loved.  $\emdash$ Victor Hugo*
 
 ### Brief Bio
 
