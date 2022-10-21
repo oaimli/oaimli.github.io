@@ -29,7 +29,7 @@ modify_date: 2022-09-30
 </tr>
 </table>
 
-*You're never wrong to do the right thing.             ------ Mark Twain*
+*The supreme happiness of life is the conviction that we are loved.        ------ Victor Hugo*
 
 ### Brief Bio
 
