@@ -39,6 +39,11 @@ I'm currently a PhD candidate at School of Computing and Information Systems, Th
 
 My research interest falls in developing machine learning models mainly with deep neural networks for natural language processing (a sub-field of artificial intelligence) with the aim of helping machines understand and generate natural language like human beings. In these years of the PhD study, my research has been focused on natural langauge generation, especially abstractive text summarization where we aim to develop deep learning models to automatically generate high-quality summaries of multiple documents with large pretrained language models.
 
+- Abstractive text summarization
+- Multi-document modeling and summarization
+- Large pretrained language models
+- Sequence-to-sequence learning
+
 ### Selected Publications
 
 - Mengxue Zhao, Yang Yang, ***Miao Li***, Jingang Wang, Wei Wu, Pengjie Ren, Maarten de Rijke and Zhaochun Ren. Personalized Abstractive Opinion Tagging. SIGIR 2022. [pdf](https://staff.fnwi.uva.nl/m.derijke/wp-content/papercite-data/pdf/zhao-2022-personalized.pdf)
