@@ -22,7 +22,7 @@ modify_date: 2022-11-21
         <a href="https://www.unimelb.edu.au/">The University of Melbourne</a><br>
         Email (preferred): <font size="3">prefix.cs@gmail.com, prefix=miaoli</font><br>
         Email (UoM): <font size="3">prefix@student.unimelb.edu.au, prefix=miao4</font><br>
-        Address: Melbourne Connect, 700 Swanston Street, Carlton, VIC 3053
+        Address: Level 4, Melbourne Connect, Carlton, Melbourne, VIC 3053
         </font>
    </p>
 </td>
