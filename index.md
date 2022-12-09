@@ -37,7 +37,7 @@ I'm currently a PhD candidate at School of Computing and Information Systems, Th
 
 ### Research Interests
 
-My research interest falls in developing machine learning models mainly with deep neural networks for natural language processing (a sub-field of artificial intelligence) with the aim of helping machines understand and generate natural language like human beings. In these years of the PhD study, my research has been focused on natural langauge generation (NLG), especially abstractive text summarization where we aim to develop deep learning models to automatically generate high-quality summaries of multiple documents.
+My research interest falls in developing machine learning models mainly with deep neural networks for natural language processing (a sub-field of artificial intelligence) with the aim of helping machines understand and generate natural language like human beings. In these years of the PhD study, my research has been focused on natural langauge generation (NLG) with multi-text consumption, where we aim to develop deep learning models to automatically generate high-quality summaries of multiple source documents.
 
 - Abstractive text summarization
 - Multi-document modeling and summarization
