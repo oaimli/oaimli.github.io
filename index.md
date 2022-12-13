@@ -47,11 +47,11 @@ My research interest falls in developing machine learning models mainly with dee
 ### Selected Publications
 
 - ***Miao Li***, Jianzhong Qi, and Jey Han Lau. Compressed Heterogeneous Graph for Abstractive Multi-document Summarization. AAAI 2023 (accepted to appear).
-- Mengxue Zhao, Yang Yang, ***Miao Li***, Jingang Wang, Wei Wu, Pengjie Ren, Maarten de Rijke and Zhaochun Ren. Personalized Abstractive Opinion Tagging. Oral, SIGIR 2022. [pdf](https://staff.fnwi.uva.nl/m.derijke/wp-content/papercite-data/pdf/zhao-2022-personalized.pdf)
+- Mengxue Zhao, Yang Yang, ***Miao Li***, Jingang Wang, Wei Wu, Pengjie Ren, Maarten de Rijke and Zhaochun Ren. Personalized Abstractive Opinion Tagging. SIGIR 2022 (Oral). [pdf](https://staff.fnwi.uva.nl/m.derijke/wp-content/papercite-data/pdf/zhao-2022-personalized.pdf)
 - Rui Zhang, Bayu Distiawan Trisedy, ***Miao Li***, Yong Jiang, Jianzhong Qi. A Benchmark and Comprehensive Survey on Knowledge Graph Entity Alignment via Representation Learning. VLDB Journal 2022. [pdf](https://link.springer.com/article/10.1007/s00778-022-00747-z), [code](https://github.com/ruizhang-ai/EA_for_KG)
-- Hongyin Tang, ***Miao Li***, Beihong Jin. A Topic Augmented Text Generation Model: Joint Learning of Semantics and Structural Features. Oral, EMNLP 2019. [pdf](https://www.aclweb.org/anthology/D19-1513/), [appendix](https://oaimli.github.io/files/paper_at_emnlp2019_appendix.pdf)
-- ***Miao Li***,  Hongyin Tang, Beihong Jin, Chengqing Zong. A New Effective Neural Variational Model with Mixture-of-Gaussians Prior for Text Clustering. Oral, ICTAI 2019. [pdf](https://oaimli.github.io/files/paper_at_ictai2019.pdf) 
-- ***Miao Li***, Hongyin Tang, Beihong Jin. Clustering Large-Scale Origin-Destination Pairs: A Case Study for Public Transit in Beijing. Oral, UIC 2018. [pdf](https://ieeexplore.ieee.org/document/8560115) 
+- Hongyin Tang, ***Miao Li***, Beihong Jin. A Topic Augmented Text Generation Model: Joint Learning of Semantics and Structural Features. EMNLP 2019 (Oral). [pdf](https://www.aclweb.org/anthology/D19-1513/), [appendix](https://oaimli.github.io/files/paper_at_emnlp2019_appendix.pdf)
+- ***Miao Li***,  Hongyin Tang, Beihong Jin, Chengqing Zong. A New Effective Neural Variational Model with Mixture-of-Gaussians Prior for Text Clustering. ICTAI 2019 (Oral). [pdf](https://oaimli.github.io/files/paper_at_ictai2019.pdf) 
+- ***Miao Li***, Hongyin Tang, Beihong Jin. Clustering Large-Scale Origin-Destination Pairs: A Case Study for Public Transit in Beijing. UIC 2018 (Oral). [pdf](https://ieeexplore.ieee.org/document/8560115) 
 - Software copyright of an Android App for healthcare (No.2016SR133938), granted by Chinese National Copyright Administration, June 2016.
 
 ### Honors and Awards
