@@ -39,10 +39,10 @@ I'm currently a PhD candidate at School of Computing and Information Systems, Th
 
 My research interest falls in developing machine learning models mainly with deep neural networks for natural language processing (a sub-field of artificial intelligence) with the aim of helping machines understand and generate natural language like human beings. In these years of the PhD study, my research has been focused on natural langauge generation (NLG) with multi-text consumption, where we aim to develop deep learning models to automatically generate high-quality summaries of multiple source documents.
 
-- Abstractive text summarization
+- Neural abstractive text summarization
 - Multi-document modeling and summarization
 - Large pre-trained language models
-- Sequence-to-sequence learning
+- (Explainable) sequence-to-sequence learning
 
 ### Selected Publications
 
