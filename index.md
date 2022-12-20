@@ -33,11 +33,11 @@ modify_date: 2022-11-21
 
 ### Brief Bio
 
-I'm currently a PhD candidate at School of Computing and Information Systems, The University of Melbourne (UoM), honored to be advised by [Dr. Jey Han Lau](https://scholar.google.com.au/citations?user=MFi65f4AAAAJ&hl=en&oi=ao) (UoM) and [Prof. Eduard Hovy](https://scholar.google.com/citations?user=PUFxrroAAAAJ&hl=en) (UoM and CMU). I commenced at UoM in December 2020. Previously, after obtaining B.E. from Northeastern University (NEU) in 2017, I studied as an exam-exempted master student in State Key Laboratory of Computer Science in China and got M.Sc.(Research) in July 2020 from Chinese Academy of Sciences (CAS). 
+I'm currently a PhD candidate at School of Computing and Information Systems, The University of Melbourne (UoM), honored to be advised by [Dr. Jey Han Lau](https://scholar.google.com.au/citations?user=MFi65f4AAAAJ&hl=en&oi=ao) (UoM) and [Prof. Eduard Hovy](https://scholar.google.com/citations?user=PUFxrroAAAAJ&hl=en) (UoM and CMU). I commenced at UoM in December 2020. Previously, after obtaining B.E. from Northeastern University (NEU) in 2017, I studied as an exam-exempted master student in State Key Laboratory of Computer Science, China and got M.Sc.(Research) in July 2020 from Chinese Academy of Sciences (CAS). 
 
 ### Research Interests
 
-My research interest falls in developing machine learning models mainly with deep neural networks for natural language processing (a sub-field of artificial intelligence) with the aim of helping machines understand and generate natural language like human beings. In these years of the PhD study, my research has been focused on natural langauge generation (NLG) with multi-text consumption, where we aim to develop deep learning models to automatically generate high-quality summaries of multiple source documents.
+My research interest falls in developing machine learning models mainly with deep neural networks for natural language processing (a sub-field of artificial intelligence) with the aim of helping machines understand and generate natural language like human beings. In these years of pursuing the PhD degree, my research has been focused on natural langauge generation (NLG) with multi-text consumption, where we aim to develop deep learning models to automatically generate high-quality summaries of multiple source documents.
 
 - Neural abstractive text summarization
 - Multi-document modeling and summarization
