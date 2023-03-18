@@ -45,6 +45,7 @@ My research interest falls in developing machine learning models mainly with dee
 
 ### Selected Publications
 
+- Zhuohan Xie, ***Miao Li***, Trevor Cohn, and Jey Han Lau. DeltaScore: Evaluating Story Generation with Differentiating Perturbations. Preprint, 2023. [pdf](https://arxiv.org/abs/2303.08991)
 - ***Miao Li***, Jianzhong Qi, and Jey Han Lau. Compressed Heterogeneous Graph for Abstractive Multi-document Summarization. Oral. AAAI 2023. [pdf](https://arxiv.org/pdf/2303.06565.pdf)
 - Mengxue Zhao, Yang Yang, ***Miao Li***, Jingang Wang, Wei Wu, Pengjie Ren, Maarten de Rijke and Zhaochun Ren. Personalized Abstractive Opinion Tagging. Oral. SIGIR 2022. [pdf](https://staff.fnwi.uva.nl/m.derijke/wp-content/papercite-data/pdf/zhao-2022-personalized.pdf)
 - Rui Zhang, Bayu Distiawan Trisedy, ***Miao Li***, Yong Jiang, Jianzhong Qi. A Benchmark and Comprehensive Survey on Knowledge Graph Entity Alignment via Representation Learning. VLDB Journal 2022. [pdf](https://link.springer.com/article/10.1007/s00778-022-00747-z) / [code](https://github.com/ruizhang-ai/EA_for_KG)
