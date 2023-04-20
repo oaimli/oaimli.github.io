@@ -1,6 +1,6 @@
 ---
 type: article
-title: Mathematical Modeling in Sequence-to-sequence Learning
+title: Sequence-to-Sequence Learning and Beyond
 key: 2018011101
 tags: MachineLearning Seq2seq ToBeCompleted
 comment: false
