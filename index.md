@@ -42,7 +42,7 @@ My research interest falls in developing machine learning models mainly with dee
 - Text summarization in an abstractive manner
 - Pre-trained large language models
 - Sequence-to-sequence learning (seq2seq)
-- Data-efficient methods for training and inference
+- Data- and parameter-efficient methods for training and inference
 
 ### Selected Publications
 
