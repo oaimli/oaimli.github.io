@@ -46,11 +46,11 @@ My research interest falls in developing machine learning models mainly with dee
 
 ### Selected Publications
 
-- ***Miao Li***, Eduard Hovy, and Jey Han Lau. "Towards Summarizing Multiple Documents with Hierarchical Relationships". Preprint, 2023. [PDF](https://arxiv.org/abs/2305.01498) / [Code](https://github.com/oaimli/PeerSum) / [Dataset](https://github.com/oaimli/PeerSum)
+- ***Miao Li***, Eduard Hovy, and Jey Han Lau. "Towards Summarizing Multiple Documents with Hierarchical Relationships". Preprint, 2023. [PDF](https://arxiv.org/abs/2305.01498)
 - Zhuohan Xie, ***Miao Li***, Trevor Cohn, and Jey Han Lau. DeltaScore: Evaluating Story Generation with Differentiating Perturbations. Preprint, 2023. [PDF](https://arxiv.org/abs/2303.08991)
 - ***Miao Li***, Jianzhong Qi, and Jey Han Lau. Compressed Heterogeneous Graph for Abstractive Multi-document Summarization. Oral. AAAI 2023. [PDF](https://arxiv.org/pdf/2303.06565.pdf)
 - Mengxue Zhao, Yang Yang, ***Miao Li***, Jingang Wang, Wei Wu, Pengjie Ren, Maarten de Rijke and Zhaochun Ren. Personalized Abstractive Opinion Tagging. Oral. SIGIR 2022. [PDF](https://staff.fnwi.uva.nl/m.derijke/wp-content/papercite-data/pdf/zhao-2022-personalized.pdf)
-- Rui Zhang, Bayu Distiawan Trisedy, ***Miao Li***, Yong Jiang, Jianzhong Qi. A Benchmark and Comprehensive Survey on Knowledge Graph Entity Alignment via Representation Learning. VLDB Journal 2022. [PDF](https://link.springer.com/article/10.1007/s00778-022-00747-z) / [Code](https://github.com/ruizhang-ai/EA_for_KG)
+- Rui Zhang, Bayu Distiawan Trisedy, ***Miao Li***, Yong Jiang, Jianzhong Qi. A Benchmark and Comprehensive Survey on Knowledge Graph Entity Alignment via Representation Learning. VLDB Journal 2022. [PDF](https://link.springer.com/article/10.1007/s00778-022-00747-z)
 - Hongyin Tang, ***Miao Li***, Beihong Jin. A Topic Augmented Text Generation Model: Joint Learning of Semantics and Structural Features. Oral. EMNLP 2019. [PDF](https://www.aclweb.org/anthology/D19-1513/) / [Appendix](https://oaimli.github.io/files/paper_at_emnlp2019_appendix.pdf)
 - ***Miao Li***,  Hongyin Tang, Beihong Jin, Chengqing Zong. A New Effective Neural Variational Model with Mixture-of-Gaussians Prior for Text Clustering. Oral. ICTAI 2019. [PDF](https://oaimli.github.io/files/paper_at_ictai2019.pdf) 
 - ***Miao Li***, Hongyin Tang, Beihong Jin. Clustering Large-Scale Origin-Destination Pairs: A Case Study for Public Transit in Beijing. Oral. UIC 2018. [PDF](https://ieeexplore.ieee.org/document/8560115) 
