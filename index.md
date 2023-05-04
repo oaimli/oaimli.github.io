@@ -46,7 +46,7 @@ My research interest falls in developing machine learning models mainly with dee
 
 ### Selected Publications
 
-- ***Miao Li***, Eduard Hovy, and Jey Han Lau. "Towards Summarizing Multiple Documents with Hierarchical Relationships". Preprint, 2023. [PDF](https://arxiv.org/abs/2305.01498)
+- ***Miao Li***, Eduard Hovy, and Jey Han Lau. Towards Summarizing Multiple Documents with Hierarchical Relationships. Preprint, 2023. [PDF](https://arxiv.org/abs/2305.01498)
 - Zhuohan Xie, ***Miao Li***, Trevor Cohn, and Jey Han Lau. DeltaScore: Story Evaluation with Perturbations. Preprint, 2023. [PDF](https://arxiv.org/abs/2303.08991)
 - ***Miao Li***, Jianzhong Qi, and Jey Han Lau. Compressed Heterogeneous Graph for Abstractive Multi-document Summarization. Oral. AAAI 2023. [PDF](https://arxiv.org/pdf/2303.06565.pdf)
 - Mengxue Zhao, Yang Yang, ***Miao Li***, Jingang Wang, Wei Wu, Pengjie Ren, Maarten de Rijke and Zhaochun Ren. Personalized Abstractive Opinion Tagging. Oral. SIGIR 2022. [PDF](https://dl.acm.org/doi/10.1145/3477495.3532037)
