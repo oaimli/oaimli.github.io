@@ -8,9 +8,9 @@ modify_date: 2023-05-02
 
 <table>
 <tr>
-<td width="280" align="center">
+<td width="260" align="center">
     <div style="float:center">
-      <img src="files/ava.png" width="250">
+      <img src="files/ava.png" width="230">
     </div>
 </td>
 <td>
@@ -18,7 +18,6 @@ modify_date: 2023-05-02
         <font face="Arial">
         <b><font size="5.8">Miao 'Ryan' Li</font><font size="5.5"></font></b><br>
         <font size="3">PhD Candidate in NLP/ML</font><br>
-        <a href="https://cis.unimelb.edu.au/research/artificial-intelligence/research/Natural-Language-Processing">Natural Language Processing Group</a><br> 
         <a href="https://cis.unimelb.edu.au/">School of Computing and Information Systems</a>,<br> 
         <a href="https://www.unimelb.edu.au/">The University of Melbourne</a><br>
         Email (preferred): <font size="3">prefix.cs@gmail.com, prefix=miaoli</font><br>
@@ -34,7 +33,7 @@ modify_date: 2023-05-02
 
 ### Brief Bio
 
-I'm currently a PhD candidate at School of Computing and Information Systems, The University of Melbourne (UoM), honored to be advised by [Dr. Jey Han Lau](https://scholar.google.com.au/citations?user=MFi65f4AAAAJ&hl=en&oi=ao) (UoM) and [Prof. Eduard Hovy](https://scholar.google.com/citations?user=PUFxrroAAAAJ&hl=en) (UoM and CMU). I commenced at UoM in December 2020. Previously, after obtaining B.E. from Northeastern University (NEU) in 2017, I studied as an exam-exempted master student in State Key Laboratory of Computer Science, China and got M.Sc. in July 2020 from Chinese Academy of Sciences (CAS). 
+I'm currently a PhD candidate at School of Computing and Information Systems, The University of Melbourne (UoM), honored to be advised by [Dr. Jey Han Lau](https://scholar.google.com.au/citations?user=MFi65f4AAAAJ&hl=en&oi=ao) (UoM) and [Prof. Eduard Hovy](https://scholar.google.com/citations?user=PUFxrroAAAAJ&hl=en) (UoM and CMU) in <a href="https://cis.unimelb.edu.au/research/artificial-intelligence/research/Natural-Language-Processing">Natural Language Processing Group</a><br>. I commenced at UoM in December 2020. Previously, after obtaining B.E. from Northeastern University (NEU) in 2017, I studied as an exam-exempted master student in State Key Laboratory of Computer Science, China and got M.Sc. in July 2020 from Chinese Academy of Sciences (CAS). 
 
 ### Research Interests
 
