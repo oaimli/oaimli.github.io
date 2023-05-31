@@ -33,7 +33,7 @@ modify_date: 2023-05-02
 
 ### Brief Bio
 
-I'm currently a PhD candidate at School of Computing and Information Systems, The University of Melbourne (UoM), honored to be advised by [Dr. Jey Han Lau](https://scholar.google.com.au/citations?user=MFi65f4AAAAJ&hl=en&oi=ao) (UoM) and [Prof. Eduard Hovy](https://scholar.google.com/citations?user=PUFxrroAAAAJ&hl=en) (UoM and CMU) in <a href="https://cis.unimelb.edu.au/research/artificial-intelligence/research/Natural-Language-Processing">Natural Language Processing Group</a><br>. I commenced at UoM in December 2020. Previously, after obtaining B.E. from Northeastern University (NEU) in 2017, I studied as an exam-exempted master student in State Key Laboratory of Computer Science, China and got M.Sc. in July 2020 from Chinese Academy of Sciences (CAS). 
+I'm currently a PhD candidate at School of Computing and Information Systems, The University of Melbourne (UoM), honored to be advised by [Dr. Jey Han Lau](https://scholar.google.com.au/citations?user=MFi65f4AAAAJ&hl=en&oi=ao) (UoM) and [Prof. Eduard Hovy](https://scholar.google.com/citations?user=PUFxrroAAAAJ&hl=en) (UoM and CMU) in [Natural Language Processing Group](https://cis.unimelb.edu.au/research/artificial-intelligence/research/Natural-Language-Processing). I commenced at UoM in December 2020. Previously, after obtaining B.E. from Northeastern University (NEU) in 2017, I studied as an exam-exempted master student in State Key Laboratory of Computer Science, China and got M.Sc. in July 2020 from Chinese Academy of Sciences (CAS). 
 
 ### Research Interests
 
