@@ -37,7 +37,7 @@ I'm currently a PhD candidate at School of Computing and Information Systems, Th
 
 ### Research Interests
 
-My research interest falls in designing computational models mainly with deep neural networks for natural language processing (NLP) with the aim of helping machines understand and generate natural language text like human beings. In these years of pursuing the PhD degree, my research has been focused on pre-trained language models based abstractive summarization with deep comprehension of text relationships, aiming to develop computational algorithms for high-quality abstractive summarization with improving the ability of pre-trained language models to understand text relationships in summarization.
+My research interest falls in designing computational models mainly with deep neural networks for natural language processing (NLP) with the aim of helping machines understand and generate natural language text like human beings. In these years of pursuing the PhD degree, my research has been focused on pre-trained language models based abstractive summarization with deep comprehension of text relationships, aiming to develop more effective computational algorithms for high-quality abstractive summarization with improving the ability of pre-trained language models to understand text relationships in summarization.
 
 - Generative summarization with understanding complex text relationships
 - Sequence-to-sequence learning (seq2seq) for text generation
