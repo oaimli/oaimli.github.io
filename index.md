@@ -33,16 +33,16 @@ modify_date: 2023-05-02
 
 ### Brief Bio
 
-I'm currently a PhD candidate at School of Computing and Information Systems, The University of Melbourne (UoM), honored to be advised by [Dr. Jey Han Lau](https://scholar.google.com.au/citations?user=MFi65f4AAAAJ&hl=en&oi=ao) (UoM) and [Prof. Eduard Hovy](https://scholar.google.com/citations?user=PUFxrroAAAAJ&hl=en) (UoM and CMU) in [Natural Language Processing Group](https://cis.unimelb.edu.au/research/artificial-intelligence/research/Natural-Language-Processing). I commenced at UoM in December 2020. Previously, after obtaining B.E. from Northeastern University (NEU) in 2017, I studied as an exam-exempted master student in State Key Laboratory of Computer Science, China and got M.Sc. in July 2020 from Chinese Academy of Sciences (CAS). 
+I'm currently a PhD candidate at School of Computing and Information Systems, The University of Melbourne (UoM), honored to be advised by [Dr. Jey Han Lau](https://scholar.google.com.au/citations?user=MFi65f4AAAAJ&hl=en&oi=ao) (UoM) and [Prof. Eduard Hovy](https://scholar.google.com/citations?user=PUFxrroAAAAJ&hl=en) (UoM and CMU) in [Natural Language Processing Group](https://cis.unimelb.edu.au/research/artificial-intelligence/research/Natural-Language-Processing). I commenced at UoM in December 2020. Previously, after obtaining B.E. from Northeastern University (NEU) in 2017, I studied as an exam-exempted master student at State Key Laboratory of Computer Science, China and got M.Sc. in July 2020 from Chinese Academy of Sciences (CAS). 
 
 ### Research Interests
 
-My research interest falls in designing computational models mainly with deep neural networks for natural language generation (NLG) with the aim of helping machines understand and generate natural language text like human beings. In these years of pursuing the PhD degree, my research has been focused on pre-trained language models based abstractive summarization with deep comprehension of text relationships, aiming to develop more effective computational algorithms for high-quality abstractive summarization with improving the ability of pre-trained language models to understand text relationships in summarization.
+My research interest falls in designing computational models for natural language generation with the aim of helping machines understand and generate natural language text like human beings. In these years of pursuing the PhD degree, my research has been focused on abstractive summarization with a deep comprehension of deep semantics and text relationships.
 
-- Generative summarization with understanding complex text relationships
+- Abstractive summarization with an understanding of text relationships
 - Sequence-to-sequence learning (seq2seq) for text generation
-- Pre-trained large language models and their collaborative learning
-- Data- and parameter-efficient methods for training and inference
+- Pre-trained large language models and collaborative learning
+- Data-efficient methods for training and inference of text generation
 
 ### Selected Publications
 
@@ -58,7 +58,7 @@ My research interest falls in designing computational models mainly with deep ne
 
 ### Honors and Awards
 
-- AAAI-23 Student Scholariship, Association for the Advancement of Artificial Intelligence, January 2023
+- AAAI-23 Student Scholarship, Association for the Advancement of Artificial Intelligence, January 2023
 - Google Conference Scholarship, Google Inc., January 2023
 - China Scholarship Council - University of Melbourne PhD Scholarship, February 2020
 - Excellent Student Cadre, University of Chinese Academy of Sciences, June 2019
@@ -77,7 +77,7 @@ My research interest falls in designing computational models mainly with deep ne
 
 - Program committee: NLPCC 2023
 - Reviewer committee: NLPCC 2022, EACL 2023, ACL 2023
-- Reviewer for ACL Rolliing Review (2021 - Present)
+- Reviewer for ACL Rolling Review (2021 - Present)
 - Subreviewer for WSDM 2022, SIGIR 2022, SIGKDD 2022, and CIKM 2022
 
 
