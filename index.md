@@ -77,8 +77,7 @@ Throughout my years of pursuing a PhD degree, my research has primarily focused 
 
 ### Professional Services
 
-- Program committee: NLPCC 2023
-- Reviewer committee: NLPCC 2022, EACL 2023, ACL 2023
+- Reviewer committee: NLPCC 2022-2023, EACL 2023, ACL 2023, EMNLP 2023
 - Reviewer for ACL Rolling Review (2021 - Present)
 - Subreviewer for WSDM 2022, SIGIR 2022, SIGKDD 2022, and CIKM 2022
 
