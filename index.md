@@ -33,11 +33,13 @@ modify_date: 2023-05-02
 
 ### Brief Bio
 
-I'm currently a PhD candidate at School of Computing and Information Systems, The University of Melbourne (UoM), honored to be advised by [Dr. Jey Han Lau](https://scholar.google.com.au/citations?user=MFi65f4AAAAJ&hl=en&oi=ao) (UoM) and [Prof. Eduard Hovy](https://scholar.google.com/citations?user=PUFxrroAAAAJ&hl=en) (UoM and CMU) in [Natural Language Processing Group](https://cis.unimelb.edu.au/research/artificial-intelligence/research/Natural-Language-Processing). I commenced at UoM in December 2020. Previously, after obtaining B.E. from Northeastern University (NEU) in 2017, I studied as an exam-exempted master student at State Key Laboratory of Computer Science, China and got M.Sc. in July 2020 from Chinese Academy of Sciences (CAS). 
+I'm currently a PhD candidate at School of Computing and Information Systems, The University of Melbourne (UoM), honored to be advised by [Dr. Jey Han Lau](https://scholar.google.com.au/citations?user=MFi65f4AAAAJ&hl=en&oi=ao) (UoM) and [Prof. Eduard Hovy](https://scholar.google.com/citations?user=PUFxrroAAAAJ&hl=en) (UoM and CMU) in [Natural Language Processing Group](https://cis.unimelb.edu.au/research/artificial-intelligence/research/Natural-Language-Processing). My journey at UoM began in December 2020. Prior to that, after obtaining B.E. from Northeastern University (NEU) in 2017, I studied as an exam-exempted master's student at State Key Laboratory of Computer Science, China and got M.Sc. in July 2020 from Chinese Academy of Sciences (CAS). 
 
 ### Research Interests
 
-My research interest falls in designing computational models for natural language generation with the aim of helping machines understand and generate natural language text like human beings. In these years of pursuing the PhD degree, my research has been focused on abstractive summarization with a deep comprehension of deep semantics and text relationships.
+My research interest lies in the field of developing computational models to facilitate machines in automatically generating high-quality texts that are aligned with human intents with a comprehensive understanding of semantically intricate input documents. It is a well-known challenge for humans to quickly comprehend lengthy or multiple documents, particularly those with intricate semantics. I firmly believe that text generation models can effectively tackle this issue by efficiently comprehending complex documents and enabling humans to obtain knowledge effortlessly.
+
+Throughout my years of pursuing a PhD degree, my research has primarily focused on abstractive summarization, emphasizing the understanding of intricate semantics and textual relationships.
 
 - Abstractive summarization with an understanding of text relationships
 - Sequence-to-sequence learning (seq2seq) for text generation
