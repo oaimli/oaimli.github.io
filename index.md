@@ -41,10 +41,10 @@ My research interest lies in the field of developing computational models to fac
 
 Throughout my years of pursuing a PhD degree, my research has primarily focused on abstractive summarization, emphasizing the understanding of intricate semantics and textual relationships.
 
-- Abstractive summarization with an understanding of text relationships
-- Sequence-to-sequence learning (seq2seq) for text generation
-- Pre-trained large language models and collaborative learning
-- Data-efficient methods for training and inference of text generation
+- Abstractive summarization with an understanding of intricate text relationships
+- Sequence-to-sequence learning (seq2seq) for processing lengthy and multiple documents 
+- Pre-trained large language models (PLMs) and their collaborative learning
+- Data-efficient methods for training and inference of PLMs for text generation
 
 ### Selected Publications
 
