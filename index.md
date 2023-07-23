@@ -42,8 +42,9 @@ My research interest lies in the field of developing computational models to fac
 Throughout my years of pursuing a PhD degree, my research has primarily focused on abstractive summarization, emphasizing the understanding of intricate semantics and text relationships.
 
 - Abstractive summarization with an understanding of intricate text relationships
-- Effective and efficient language learning for lengthy and multiple documents 
-- Large language models (LLMs) for specific domains and tasks, and collaborative learning
+- Effective and efficient language learning for lengthy and multiple documents
+- Rational analysis of large language models (LLMs) based on language-related theories  
+- LLMs for specific domains and tasks, and their collaborative learning
 - Data-efficient methods for training and inference of LLMs for text generation
 
 ### Selected Publications
