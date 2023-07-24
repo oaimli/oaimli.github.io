@@ -43,7 +43,7 @@ Throughout my years of pursuing a PhD degree, my research has primarily focused 
 
 - Abstractive summarization with an understanding of intricate text relationships
 - Effective and efficient language learning for lengthy and multiple documents
-- Systematic analysis of large language models (LLMs) based on language-related theories  
+- Rational analysis of large language models (LLMs) based on language-related theories  
 - LLMs for specific domains and tasks, and their collaborative learning
 - Data-efficient methods for training and inference of LLMs for text generation
 
