@@ -45,7 +45,7 @@ Throughout my years of pursuing a PhD degree, my research has primarily focused 
 - Effective and efficient language learning for lengthy and multiple documents
 - Rational analysis of large language models (LLMs) based on language-related theories  
 - LLMs for specific domains and tasks, and their collaborative learning
-- Data-efficient methods for training and inference of LLMs for text generation
+- Data-centered methods for training and inference of LLMs for text generation
 
 ### Selected Publications
 
