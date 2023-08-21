@@ -39,7 +39,7 @@ I'm currently a PhD candidate at School of Computing and Information Systems, Th
 
 My research interest lies in developing computational models to facilitate machines in automatically generating high-quality texts aligned with human intents with a comprehensive understanding of semantically intricate input documents. It is a well-known challenge for humans to quickly comprehend lengthy or multiple documents holistically, particularly those with intricate semantics. I firmly believe that ideal text generation systems can effectively tackle this issue by efficiently comprehending complex documents and enabling humans to obtain knowledge from the documents effortlessly.
 
-Throughout my years of pursuing a PhD degree, my research has primarily focused on abstractive text summarization, emphasizing the understanding and modelling of underlying intricate semantics, especially text relationships.
+Throughout my years of pursuing a PhD degree, my research has primarily focused on abstractive text summarization, emphasizing the understanding and modelling of underlying intricate semantics in and among documents, especially text relationships.
 
 - Abstractive summarization with understanding and modelling text relationships
 - Effective and efficient language learning for lengthy and multiple documents
