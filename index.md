@@ -37,7 +37,7 @@ I'm currently a PhD candidate at School of Computing and Information Systems, Th
 
 ### Research Interests
 
-My research interest lies in developing computational models to facilitate machines in automatically generating high-quality natural language texts aligned with human intents based on a comprehensive understanding of input documents. It is a well-known challenge for humans to quickly comprehend lengthy or multiple documents holistically, particularly those with intricate semantics. I firmly believe that ideal text generation systems can effectively get over the difficulty by efficiently comprehending complex documents and enabling humans to obtain knowledge in the format of natural language from the documents effortlessly.
+My research interest lies in developing computational models to facilitate machines in automatically generating high-quality natural language texts aligned with human intents based on a comprehensive and in-depth understanding of input documents. It is a well-known challenge for humans to quickly comprehend lengthy or multiple documents holistically, particularly those with intricate semantics. I firmly believe that ideal text generation systems can effectively get over the difficulty by efficiently comprehending complex documents and enabling humans to obtain knowledge in the format of natural language from the documents effortlessly.
 
 Throughout my years of pursuing a PhD degree, my research has primarily focused on abstractive text summarization, emphasizing the understanding and modelling of underlying intricate semantics in and among documents, especially text relationships.
 
