@@ -37,16 +37,16 @@ I'm currently a PhD candidate at School of Computing and Information Systems, Th
 
 ### Research Interests
 
-My research interest lies in developing computational models to facilitate machines in automatically generating high-quality natural language texts in alignment with human intents according to their comprehensive and in-depth understanding of input documents which feature a large amount of information and intricate semantics. With the limited reading speed and memory capacity of humans, it is a well-known challenge for humans to quickly comprehend lengthy or multiple documents holistically, particularly those with intricate semantics. We could resort to AI techniques, and I firmly believe that ideal automatic text generation systems can effectively overcome the difficulty by efficiently comprehending complex documents. This should be a fundamental ability of the expected AI which enables humans to obtain knowledge in natural language format from massive documents effortlessly.
+My research interest lies in developing computational models to facilitate machines in automatically generating high-quality natural language texts in alignment with human intents according to their comprehensive and in-depth understanding of input documents which feature a large amount of information and intricate semantics. With the limited reading speed and memory capacity, it is a well-known challenge for humans to quickly comprehend lengthy or multiple documents holistically, particularly those with intricate semantics. We could resort to AI techniques, and I firmly believe that ideal automatic text generation systems can effectively overcome the difficulty by efficiently comprehending complex documents. This should be a fundamental ability of the expected AI which enables humans to obtain knowledge in natural language format from massive documents effortlessly.
 
-Throughout my years of pursuing a PhD degree, my research has primarily focused on abstractive text summarization, emphasizing the understanding and modelling of intricate underlying logic in the summarization process of humans, especially complex text relationships in multi-document summarization.
+Throughout my years of pursuing a PhD degree, my research has primarily focused on abstractive text summarization, emphasizing the understanding and modelling of intricate underlying logic in the summarization process of humans, especially for complex text relationships in multi-document summarization.
 
 Specific research topics that I have been working on or currently interested in are as follows.
 - Abstractive summarization with understanding and modelling text relationships
-- Effective and efficient language learning for lengthy and multiple documents
+- Effective and efficient language learning for lengthy and multiple documents with facts or opinions
 - Rational analysis of large language models (LLMs) based on language-related theories  
 - LLMs for specific domains and tasks, and their collaborative learning
-- Data-centric methods for training and inference of LLMs in text generation
+- Data-centric methods (quality and efficiency) for training and inference of LLMs in text generation
 
 ### Selected Publications
 
