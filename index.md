@@ -16,7 +16,7 @@ modify_date: 2023-05-02
 <td>
     <p>
         <font face="Arial">
-        <b><font size="5.8">Miao Li</font><font size="5.5"></font></b> (/ˈmja.o/ /li:/)<br>
+        <b><font size="5.8">Miao Li</font><font size="5.5"></font></b> (/ˈmja.o/ /liː/)<br>
         <font size="3">PhD Candidate in NLP/ML</font><br>
         <a href="https://cis.unimelb.edu.au/">School of Computing and Information Systems</a>,<br> 
         <a href="https://www.unimelb.edu.au/">The University of Melbourne</a><br>
