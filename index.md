@@ -42,7 +42,7 @@ My research interest lies in developing computational models to facilitate machi
 Throughout my years of pursuing the PhD degree, my research has primarily focused on abstractive text summarization, emphasizing the understanding and modelling of intricate underlying logic in the summarization process of humans, especially for complex text relationships in multi-document summarization.
 
 Specific research topics that I have been working on or currently interested in are as follows.
-- Abstractive summarization with understanding and modelling text relationships;
+- Abstractive summarization with understanding and modelling intricate text relationships;
 - Effective and efficient language learning for lengthy and multiple documents with facts or opinions;
 - Rational analysis and evaluation of large language models (LLMs) based on language-related theories;  
 - Effective fine-tuning of LLMs for specific domains, and their collaborative learning;
