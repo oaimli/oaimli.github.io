@@ -17,7 +17,7 @@ modify_date: 2023-05-02
     <p>
         <font face="Arial">
         <b><font size="5.8">Miao Li</font><font size="5.5"></font></b> (/ˈmja.o/ /liː/)<br>
-        <font size="3">PhD Candidate in NLP</font><br>
+        <font size="3">Ph.D. Candidate in NLP</font><br>
         <a href="https://cis.unimelb.edu.au/">School of Computing and Information Systems</a>,<br> 
         <a href="https://www.unimelb.edu.au/">The University of Melbourne</a><br>
         Email (preferred): <font size="3">prefix.cs@gmail.com, prefix->miaoli</font><br>
@@ -33,16 +33,16 @@ modify_date: 2023-05-02
 
 ### Brief Bio
 
-I'm currently a PhD candidate at School of Computing and Information Systems, The University of Melbourne (UoM), advised equally by [Dr. Jey Han Lau](https://scholar.google.com.au/citations?user=MFi65f4AAAAJ&hl=en&oi=ao) (UoM) and [Prof. Eduard Hovy](https://scholar.google.com/citations?user=PUFxrroAAAAJ&hl=en) (UoM and CMU) in [Natural Language Processing Group](https://cis.unimelb.edu.au/research/artificial-intelligence/research/Natural-Language-Processing). My journey at UoM began in December 2020. Prior to that, after obtaining B.E. from Northeastern University (NEU) in 2017, I studied as an exam-exempted master's student at State Key Laboratory of Computer Science, China and got M.Sc. in July 2020 from Chinese Academy of Sciences (CAS). 
+I'm currently a doctoral candidate at School of Computing and Information Systems, The University of Melbourne (UoM), advised equally by [Dr. Jey Han Lau](https://scholar.google.com.au/citations?user=MFi65f4AAAAJ&hl=en&oi=ao) (UoM) and [Prof. Eduard Hovy](https://scholar.google.com/citations?user=PUFxrroAAAAJ&hl=en) (UoM and CMU) within [Natural Language Processing Group](https://cis.unimelb.edu.au/research/artificial-intelligence/research/Natural-Language-Processing). My academic journey at UoM commenced in December 2020. Prior to that, after obtaining B.E. from Northeastern University (NEU) in 2017, I studied as an exam-exempted master's student at State Key Laboratory of Computer Science, China and completed M.Sc. in July 2020 from Chinese Academy of Sciences (CAS). 
 
 ### Research Interests
 
-My research interest lies in developing computational models to facilitate machines in automatically generating high-quality natural language texts in alignment with human intents, according to their comprehensive and in-depth understanding of input documents which feature a large amount of information and intricate semantics. With the limited reading speed and memory capacity, it is a well-known challenge for humans to quickly comprehend lengthy or multiple documents holistically, particularly those with intricate semantics like online discussions. We could resort to AI techniques, and I firmly believe that ideal automatic text generation systems can effectively overcome the difficulty by efficiently comprehending complex documents. This should be a fundamental ability of the expected AI which enables humans to obtain knowledge in natural language format from massive documents effortlessly.
+My research interests are centered around developing computational models to enhance natural language generation capabilities of machines, particularly in scenarios involving lengthy or multiple input documents with substantial amounts of information and intricate semantics. Human beings have difficulty in effectively comprehending lengthy or multiple documents holistically in a short time owing to the limited reading speed and memory capacity. I firmly believe that machines will overcome the difficulty by effectively and efficiently comprehending complex documents, and ideal automated natural language generation systems could generate high-quality natural language texts in alignment with human intents according to the comprehensive and in-depth understanding of input documents. This should be a fundamental capability of the expected AI which enables human beings to obtain knowledge in natural language format from massive documents effortlessly.
 
-Throughout my years of pursuing the PhD degree, my research has primarily focused on abstractive text summarization, emphasizing the understanding and modelling of intricate underlying logic in the summarization process of humans, especially for complex text relationships in multi-document summarization.
+Throughout my years of pursuing the Ph.D. degree, my research has primarily focused on abstractive text summarization, emphasizing the understanding and modelling of intricate underlying logic in the summarization process of humans, especially for complex text relationships in multi-document summarization.
 
 Specific research topics that I have been working on or currently interested in are as follows.
-- Abstractive summarization with understanding and modelling intricate text relationships;
+- Multi-document summarization with understanding and modelling intricate text relationships;
 - Effective and efficient language learning for lengthy and multiple documents with facts or opinions;
 - Rational analysis and evaluation of large language models (LLMs) based on language-related theories;  
 - Effective fine-tuning of LLMs for specialist tasks, and their collaborative learning;
