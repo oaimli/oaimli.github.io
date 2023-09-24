@@ -45,7 +45,7 @@ Specific research topics that I have been working on or currently interested in 
 - Multi-document summarization with understanding and modelling intricate text relationships;
 - Effective and efficient language learning for lengthy and multiple documents with facts or opinions;
 - Rational analysis and evaluation of large language models (LLMs) based on language-related theories;  
-- Effective fine-tuning of LLMs for specialist tasks, and their collaborative learning;
+- Effective calibration of LLMs for specialist tasks, and their collaborative learning;
 - Data-centric methods (quality and efficiency) for better automatic text generation systems.
 
 ### Selected Publications
