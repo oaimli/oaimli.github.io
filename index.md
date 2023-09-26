@@ -43,9 +43,9 @@ Throughout my years of pursuing the Ph.D. degree, my research has primarily focu
 
 Specific research topics that I have been working on or currently interested in are as follows.
 - Multi-document summarization with understanding and modelling intricate text relationships;
-- Effective and efficient language learning for lengthy and multiple documents with facts or opinions;
-- Rational evaluation of large language models (LLMs) based on language-related theories;
-- Evaluation metrics for natural language generation, particularly for text summarization;
+- Effective and efficient language learning for lengthy and multiple documents with opinions;
+- Systematic evaluation of natural language generation, particularly for text summarization;
+- Rational diagnosis of large language models (LLMs) based on language-related theories;
 - Effective calibration of LLMs for specialist tasks, and their collaborative learning;
 - Data-centric methods (quality and efficiency) for better automatic text generation systems.
 
