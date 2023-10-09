@@ -64,7 +64,6 @@ Specific research topics that I have been working on or currently interested in 
 
 - AAAI-23 Student Scholarship, Association for the Advancement of Artificial Intelligence, January 2023
 - Google Conference Scholarship, Google Inc., January 2023
-- China Scholarship Council - University of Melbourne PhD Scholarship, February 2020
 - Excellent Student Cadre, University of Chinese Academy of Sciences, June 2019
 - National Scholarship for Graduates, Education Ministry of China, November 2018
 - The First Prize Scholarship, University of Chinese Academy of Sciences, October 2018
