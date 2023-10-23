@@ -14,8 +14,8 @@ header:
       zh-HK: *ZH_HANT
       ko: &KO       소개
       ko-KR: *KO
-    url: /blogs/
-    # url: /
+    # url: /blogs/
+    url: /
 
   # - titles:
   #     en      : &EN       ARXIVE
