@@ -15,6 +15,7 @@ header:
       ko: &KO       소개
       ko-KR: *KO
     # url: /blogs/
+    url: /
 
   # - titles:
   #     en      : &EN       ARXIVE
