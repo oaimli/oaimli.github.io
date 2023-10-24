@@ -42,7 +42,7 @@ My research interests are centred around large-scale knowledge reasoning over le
 Throughout my years of pursuing the Ph.D. degree, my primary area of interest revolves around abstractive multi-document summarization, emphasizing the understanding and modelling of the underlying logic of integrating and aggregating intricate semantics in the human summarization process especially handling complex text relationships, e.g., the reasoning logic of meta-reviewers to write meta-reviews in peer-review systems. With a focus on the reasoning logic of multi-document summarization, specific research topics that I have been working on or currently interested in are as follows.
 - Language learning for multi-document summarization with better understanding and modelling text relationships;
 - Systematic evaluation of machine-generated texts, particularly for text summarization in an abstractive manner;
-- Effective calibration of large language models for specialist tasks and domains, and their rational analysis;
+- Effective calibration and prompting of LLMs for specialist tasks and domains, and their rational analysis;
 - Data-centric methods with a focus on the quality of data to improve the performance of automatic text generation.
 
 
