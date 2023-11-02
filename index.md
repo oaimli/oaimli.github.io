@@ -37,13 +37,12 @@ I'm currently a doctoral candidate at School of Computing and Information System
 
 ### Research Interests
 
-My research interests are centred around large-scale knowledge reasoning over lengthy or multiple documents for content-based natural language generation. Based on a comprehensive understanding of substantial amounts of information and accurate semantic reasoning over intricate semantics in complex input documents, intelligent natural language generation systems are expected to output high-quality natural language texts in alignment with human intents. This should be a fundamental capability of the expected artificial intelligence which enables human beings to obtain knowledge in natural language format from massive documents effortlessly. 
+My research interests are centred around large-scale knowledge reasoning over lengthy or multiple documents for content-based natural language generation. To output high-quality natural language texts in alignment with human intents, natural language generation systems have to achieve a comprehensive understanding of substantial amounts of information and accurate semantic reasoning over intricate semantics in complex input documents. This fundamental capability of the expected artificial intelligence would enable human beings to obtain knowledge in natural language format from massive textual data effortlessly.
 
-Throughout my years of pursuing the Ph.D. degree, my primary area of interest revolves around abstractive multi-document summarization, emphasizing the understanding and modelling of the underlying logic of integrating and aggregating intricate semantics in the human summarization process especially handling complex text relationships, e.g., the reasoning logic of meta-reviewers to write meta-reviews in peer-review systems. With a focus on the reasoning logic of multi-document summarization, specific research topics that I have been working on or currently interested in are as follows.
-- Language learning for multi-document summarization with better understanding and modelling text relationships;
-- Systematic evaluation of machine-generated texts, particularly for text summarization in an abstractive manner;
-- Effective calibration and prompting of LLMs for specialist tasks and domains, and their rational analysis;
-- Data-centric methods with a focus on the quality of data to improve the performance of automatic text generation.
+Throughout my years of pursuing the Ph.D. degree, my primary area of interest revolves around abstractive multi-document summarization, emphasizing the understanding and modelling of the underlying logic of integrating and aggregating intricate semantics in the human summarization process, e.g., the reasoning logic of meta-reviewers to write meta-reviews in peer-review systems. With a focus on the reasoning logic of abstractive multi-document summarization, specific research topics that I have been working on or currently show interest in are as follows.
+- Modelling explicit and implicit complex text relationships for abstractive multi-document summarization;
+- Understanding and modelling the underlying judgement logic to write a meta-review in peer-reviewing;
+- Evaluating and enhancing summarization models by considering the underlying knowledge reasoning logic;
 
 
 ### Selected Publications
