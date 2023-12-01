@@ -43,7 +43,7 @@ Throughout my years of pursuing the Ph.D. degree, my primary area of interest re
 - Modelling explicit and implicit complex text relationships for abstractive multi-document summarization;
 - Understanding and modelling the underlying judgement logic to write a meta-review in peer-reviewing;
 - Evaluating and enhancing summarization models by considering the underlying knowledge reasoning logic;
-- Improving large-scale reasoning capabilities of summarization models through the lens of data quality.
+- Improving large-scale information consolidation capabilities of summarization models through the lens of data quality.
 
 
 ### Selected Publications
