@@ -44,7 +44,7 @@ Throughout the years of pursuing the PhD degree, Miao's primary area of interest
 - Effective prompting of large language models for large-scale information consolidation for summarization;
 - Improving information consolidation capabilities of summarization models through the lens of data quality.
 
-Miao's long-term research objective is to develop advanced natural language generation systems which can generate high-quality natural language texts in alignment with human intents based on comprehensively understanding substantial amounts of information and accurately consolidating intricate semantics from multiple sources across different modalities. This fundamental capability of the expected artificial intelligence has the potential to facilitate effortless access for human beings to knowledge in natural language format from extensive multi-modal data sources.
+Miao's long-term research objective is to develop advanced content-based natural language generation systems which can generate high-quality natural language texts in alignment with human intents based on comprehensively understanding substantial amounts of input information and accurately consolidating intricate semantics from multiple input sources across different modalities. This fundamental capability of the expected artificial intelligence has the potential to facilitate effortless access for human beings to knowledge in natural language format from extensive multi-modal data sources.
 
 ### Selected Publications
 
