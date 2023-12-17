@@ -39,7 +39,7 @@ Miao is a PhD candidate at School of Computing and Information Systems, The Univ
 
 Throughout the years of pursuing the PhD degree, Miao's primary area of interest revolves around abstractive multi-document summarization based on pre-trained language models, emphasizing the understanding and modelling of the underlying logic of integrating and aggregating intricate semantics of multiple documents in the human summarization process, e.g., the information consolidation logic of meta-reviewers to write meta-reviews in peer-review systems. While modern summarization models based on finetuning or prompting of large pre-trained models such as ChatGPT could produce plausible summaries, it remains uncertain whether they truly possess the ability to effectively consolidate multi-document information and reason over the source documents and how the capability can be enhanced. With a focus on the underlying logic of abstractive multi-document summarization, specific research topics that Miao has been working on or currently shows interest in are as follows.
 - Modelling explicit and implicit complex text relationships for abstractive multi-document summarization;
-- Understanding and modelling the underlying judgement logic to write a meta-review in peer-reviewing;
+- Understanding and modelling the underlying judgement logic to automatically write meta-reviews in peer-reviewing;
 - Evaluating and enhancing summarization models by considering the underlying information consolidation logic;
 - Effective prompting of large language models for large-scale information consolidation for summarization;
 - Improving information consolidation capabilities of summarization models through the lens of data quality.
