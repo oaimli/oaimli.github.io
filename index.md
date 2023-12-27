@@ -76,8 +76,8 @@ Miao's long-term research objective is to develop advanced content-based natural
 
 ### Professional Services
 
-- Member of reviewer committees: NLPCC 2022-2023, EACL 2023, ACL 2023, EMNLP 2023 (Research and Industry)
 - Reviewer for ACL Rolling Review (2021 - Present)
+- Member of reviewer committees: NLPCC 2022-2023, EACL 2023, ACL 2023, EMNLP 2023 (Research and Industry)
 - Subreviewer for WSDM 2022, SIGIR 2022, SIGKDD 2022, and CIKM 2022
 
 
