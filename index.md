@@ -37,14 +37,12 @@ Miao is currently a PhD candidate at School of Computing and Information Systems
 
 ### Research Interests
 
-Throughout the years of pursuing the PhD degree, Miao's primary area of interest revolves around abstractive multi-document summarization with pre-trained language models, emphasizing the understanding and modelling of the underlying logic of integrating and aggregating intricate semantics of multiple documents in the human summarization process, e.g., the information consolidation logic of meta-reviewers to write meta-reviews in peer-review systems. While modern summarization models based on finetuning or prompting of large pre-trained models such as ChatGPT could produce plausible summaries, it remains uncertain whether they truly possess the ability to effectively consolidate multi-document information and reason over the source documents and how the capability can be enhanced. With a focus on the underlying logic of abstractive multi-document summarization, specific research topics that Miao has been working on or currently shows interest in are as follows.
+Throughout the years of pursuing the PhD degree, Miao's primary area of interest revolves around multi-document language processing and abstractive summarization. While modern summarization models based on finetuning or prompting of large language models such as ChatGPT could produce plausible summaries, it remains uncertain whether they truly possess the capability to effectively consolidate multi-document information with reasoning over the source documents and how the capability can be enhanced. With a focus on understanding and modelling the underlying logic of integrating and aggregating intricate semantics among multiple documents in the human summarization process, specific research topics that Miao has been working on or currently shows interest in are as follows.
 - Modelling explicit and implicit complex text relationships for abstractive multi-document summarization;
-- Understanding and modelling underlying judgement logic to automatically write meta-reviews in peer-reviewing;
-- Evaluating and enhancing summarization models by considering the underlying information consolidation logic;
-- Effective prompting of large language models for large-scale information consolidation for summarization;
-- Improving information consolidation capabilities of summarization models through the lens of data quality.
+- Understanding and modelling the underlying logic of judgement aggregation for automated meta-review generation;
+- Evaluating and enhancing summarization models by considering the underlying information consolidation logic.
 
-Miao's long-term research objective is to develop advanced content-based natural language generation systems which can generate high-quality natural language texts in alignment with human intents based on comprehensively understanding substantial amounts of input information and accurately consolidating intricate semantics from multiple input sources across different modalities. This fundamental capability of the expected artificial intelligence has the potential to facilitate effortless access for human beings to knowledge in natural language format from extensive multi-modal data sources.
+Miao's long-term research objective is to develop advanced content-based natural language generation systems which can (1) comprehensively understand substantial amounts of input information and accurately consolidate intricate semantics from multiple input sources across different modalities, and (2) generate high-quality texts in alignment with human intents. This kind of system has the potential to facilitate effortless access for human beings to knowledge in natural language format from extensive multi-modal data sources.
 
 ### Selected Publications
 
@@ -77,7 +75,7 @@ Miao's long-term research objective is to develop advanced content-based natural
 ### Professional Services
 
 - Reviewer for ACL Rolling Review (2021 - Present)
-- Member of reviewer committees: NLPCC 2022-2023, EACL 2023, ACL 2023, EMNLP 2023 (Research and Industry)
+- Member of reviewer committees: NLPCC 2022-2023, EACL 2023, ACL 2023, EMNLP 2023
 - Subreviewer for WSDM 2022, SIGIR 2022, SIGKDD 2022, and CIKM 2022
 
 
