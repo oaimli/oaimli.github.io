@@ -37,12 +37,14 @@ Miao is currently a PhD candidate at School of Computing and Information Systems
 
 ### Research Interests
 
-Throughout the years of pursuing the PhD degree, Miao's primary area of interest revolves around multi-document language processing and abstractive summarization. While modern summarization models based on finetuning or prompting of large language models such as ChatGPT could produce plausible summaries, it remains uncertain whether they truly possess the capability to effectively consolidate multi-document information with reasoning over the source documents and how the capability can be enhanced. With a focus on understanding and modelling the underlying logic of integrating and aggregating intricate semantics among multiple documents in the human summarization process, specific research topics that Miao has been working on or currently shows interest in are as follows.
-- Modelling explicit and implicit complex text relationships for abstractive multi-document summarization;
-- Understanding and modelling the underlying logic of judgement aggregation for automated meta-review generation;
-- Evaluating and enhancing summarization models by considering the underlying information consolidation logic.
+Throughout the years of pursuing the PhD degree, Miao's primary area of interest revolves around multi-document language processing with an application in abstractive summarization. While modern large language models based on fine-tuning or prompting (e.g., ChatGPT) have demonstrated the ability to generate plausible summaries, the extent to which they can effectively consolidate information from multiple documents remains uncertain. Miao's research aims to evaluate and enhance the information consolidation capability of natural language generation models. Specific research topics that Miao has been working on or currently shows interest in are as follows.
 
-Miao's long-term research objective is to develop advanced content-based natural language generation systems which can (1) comprehensively understand substantial amounts of input information and accurately consolidate intricate semantics from multiple input sources across different modalities, and (2) generate high-quality texts in alignment with human intents. This kind of system has the potential to facilitate effortless access for human beings to knowledge in natural language format from extensive multi-modal data sources.
+- Modelling explicit and implicit text relationships for abstractive multi-document summarization;
+- Understanding and modelling the logic of judgement aggregation for automated meta-review generation;
+- Evaluating and enhancing summarization models with the underlying information consolidation logic;
+- Exploring planning as an intermediate representation for more grounded multi-document summarization.
+
+Miao's long-term research goal is to achieve powerful natural language generation which can effectively comprehend multi-source information with intricate interactions between different modalities and generate high-quality texts aligned with human intents. This has the potential to facilitate effortless information access in natural language format from extensive multi-modal data sources for human beings.
 
 ### Selected Publications
 
