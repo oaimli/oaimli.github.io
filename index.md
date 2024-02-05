@@ -37,9 +37,7 @@ Miao is currently a PhD candidate at School of Computing and Information Systems
 
 ### Research Interests
 
-Throughout the years of pursuing the PhD degree, Miao's primary area of interest revolves around multi-document language processing with an application in abstractive summarization. While modern large language models based on fine-tuning or prompting (e.g., ChatGPT) have demonstrated the ability to generate plausible summaries, the extent to which they can effectively consolidate information from multiple documents remains uncertain. Miao's PhD research aims to evaluate and enhance the multi-document information consolidation capability of natural language generation models.
-
-Miao's long-term research goal is to achieve powerful natural language generation which can effectively comprehend multi-source information with intricate interactions between different modalities and generate high-quality texts aligned with human intents. This technology has the potential to facilitate effortless information access in natural language format from extensive multi-modal data sources for human beings.
+Throughout the years of pursuing the PhD degree, Miao's primary area of interest revolves around multi-document language processing with an application of abstractive summarization. While modern large language models (e.g., ChatGPT) have demonstrated the ability to generate plausible summaries, their effectiveness in consolidating information from multiple documents remains uncertain. Miao's PhD research aims to evaluate and enhance the multi-document information consolidation capability of natural language generation systems in multi-document summarization. In the long term, Miao's research goal is to systematically investigate how humans and machines form factual understanding or opinionated judgments through the assimilation of information from multiple sources, and achieve powerful natural language generation which can effectively comprehend multi-source information with intricate interactions among different modalities.
 
 ### Selected Publications
 
