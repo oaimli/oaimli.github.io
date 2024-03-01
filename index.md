@@ -42,6 +42,7 @@ Throughout the years of pursuing the PhD degree, Miao's primary area of interest
 ### Selected Publications
 
 - ***Miao Li***, Jey Han Lau, and Eduard Hovy. Exploring Multi-Document Information Consolidation for Scientific Sentiment Summarization. arXiv, 2024. [PDF](https://arxiv.org/pdf/2402.18005.pdf)
+- ***Miao Li***, Ming-Bin Chen, Bo Tang, Shengbin Hou, Pengyu Wang, Haiying Deng, Zhiyu Li, Feiyu Xiong, Keming Mao, Peng Cheng, and Yi Luo, and Eduard Hovy. NewsBench: Systematic Evaluation of LLMs for Writing Proficiency and Safety Adherence in Chinese Journalistic Editorial Applications. arXiv, 2024. [PDF]()
 - ***Miao Li***, Eduard Hovy, and Jey Han Lau. Summarizing Multiple Documents with Conversational Structure for Meta-review Generation. Findings of EMNLP, 2023. [PDF](https://arxiv.org/abs/2305.01498)
 - Zhuohan Xie, ***Miao Li***, Trevor Cohn, and Jey Han Lau. DeltaScore: Fine-grained Story Evaluation with Perturbations. Findings of EMNLP, 2023. [PDF](https://arxiv.org/abs/2303.08991)
 - ***Miao Li***, Jianzhong Qi, and Jey Han Lau. Compressed Heterogeneous Graph for Abstractive Multi-document Summarization. Oral. AAAI 2023. [PDF](https://arxiv.org/pdf/2303.06565.pdf)
