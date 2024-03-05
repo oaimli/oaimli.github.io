@@ -37,7 +37,9 @@ Miao is currently a PhD candidate at School of Computing and Information Systems
 
 ### Research Interests
 
-Throughout the years of pursuing the PhD degree, Miao's primary area of interest revolves around multi-document language processing with an application of abstractive summarization. While modern large language models (e.g., ChatGPT) have demonstrated the ability to generate plausible summaries, their effectiveness in consolidating information from multiple documents remains uncertain. Miao's PhD research aims to evaluate and enhance the multi-document information consolidation capability of natural language generation systems in multi-document summarization. In the long term, Miao's research goal is to systematically investigate how humans and machines form factual understanding or opinionated judgments through the assimilation of information from multiple sources, and achieve powerful natural language generation which can effectively comprehend multi-source information with intricate interactions among different modalities.
+Throughout the years of pursuing the PhD degree, Miao's primary area of interest revolves around multi-document language processing with a special focus on abstractive multi-document summarization. While modern large language models have demonstrated the capability to generate plausible summaries, their effectiveness in consolidating information from multiple documents remains uncertain. Miao's PhD research aims to evaluate and enhance multi-document information consolidation of text summarization systems and make multi-document summarization less opaque and more grounded. 
+
+In the long term, Miao's research goal is to systematically investigate how humans and machines form factual understanding or opinionated judgments through the assimilation of information from multiple sources and achieve powerful natural language generation that can effectively comprehend multi-source information with intricate interactions among different modalities.
 
 ### Selected Publications
 
