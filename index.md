@@ -37,7 +37,9 @@ Miao is currently a PhD candidate at School of Computing and Information Systems
 
 ### Research Interests
 
-Throughout the years of pursuing the PhD degree, Miao's primary area of interest revolves around multi-document language processing with a special focus on abstractive multi-document summarization. While text summarization has achieved significant progress and modern large language models have demonstrated the capability to generate plausible summaries, their effectiveness in consolidating information from multiple documents remains uncertain. Miao's PhD research aims to evaluate and enhance multi-document information consolidation in text summarization and make multi-document summarization less opaque and more grounded. In the long term, Miao's research goal is to investigate the potential of machines to achieve human-level information consolidation from multiple sources in different modalities and develop powerful natural language generation that can effectively comprehend intricate multi-source information.
+Throughout the years of pursuing the PhD degree, Miao's primary area of interest revolves around multi-document language processing with a special focus on abstractive multi-document summarization. While text summarization has achieved significant progress and modern large language models have demonstrated the capability to generate plausible summaries, their effectiveness in consolidating information from multiple documents remains uncertain. Miao's PhD research aims to evaluate and enhance multi-document information consolidation in text summarization and make multi-document summarization less opaque and more grounded. In the long term, Miao's research goal is to explore the potential for machines to achieve human-level information consolidation from various sources and modalities, ultimately developing natural language generation systems capable of comprehending complex multi-source information effectively.
+
+In the long term, his goal 
 
 ### Selected Publications
 
