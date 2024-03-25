@@ -22,7 +22,7 @@ modify_date: 2024-03-06
         <a href="https://www.unimelb.edu.au/">The University of Melbourne</a><br>
         Email (preferred): <font size="3">prefix.cs@gmail.com, prefix->miaoli</font><br>
         Email (UoM): <font size="3">prefix@student.unimelb.edu.au, prefix->miao4</font><br>
-        Address: <a href="[https://cis.unimelb.edu.au/](https://melbconnect.com.au/)">Melbourne Connect</a>, 700 Swanston St, Carlton, Melbourne, VIC 3053
+        Address: <a href="https://melbconnect.com.au/">Melbourne Connect</a>, 700 Swanston St, Carlton, Melbourne, VIC 3053
         </font>
    </p>
 </td>
