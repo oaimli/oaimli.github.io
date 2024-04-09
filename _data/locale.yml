@@ -18,7 +18,7 @@ en: &EN
   FOLLOW_US               : "Follow us on [NAME]."
   EMAIL_ME                : "Send me an Email."
   EMAIL_US                : "Send us an Email."
-  COPYRIGHT_DATES         : "2023"
+  COPYRIGHT_DATES         : "2024"
 
 en-GB:
   <<: *EN
@@ -49,7 +49,7 @@ zh-Hans: &ZH_HANS
   FOLLOW_US               : "在 [NAME] 上关注我们。"
   EMAIL_ME                : "给我发邮件。"
   EMAIL_US                : "给我们发邮件。"
-  COPYRIGHT_DATES         : "2022"
+  COPYRIGHT_DATES         : "2024"
 
 zh:
   <<: *ZH_HANS
