@@ -22,7 +22,7 @@ modify_date: 2024-05-16
         <a href="https://www.unimelb.edu.au/">The University of Melbourne</a><br>
         Email (preferred): <font size="3">prefix.cs@gmail.com, prefix->miaoli</font><br>
         Email (UoM): <font size="3">prefix@student.unimelb.edu.au, prefix->miao4</font><br>
-        Address: <a href="https://melbconnect.com.au/">Melbourne Connect</a>, 700 Swanston Street, Melbourne, Australia
+        Address: Informatics Forum, 10 Crichton Street, Edinburgh EH8 9AB
         </font>
    </p>
 </td>
