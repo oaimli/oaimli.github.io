@@ -43,10 +43,10 @@ In the long term, Miao's overarching research goal is to (1) explore the potenti
 
 ### Selected Publications
 
-- ***Miao Li***, Jey Han Lau, and Eduard Hovy. Exploring Multi-Document Information Consolidation for Scientific Sentiment Summarization. Main conference of ACL 2024. [PDF](https://arxiv.org/abs/2402.18005)
-- ***Miao Li***, Ming-Bin Chen, Bo Tang, Shengbin Hou, Pengyu Wang, Haiying Deng, Zhiyu Li, Feiyu Xiong, Keming Mao, Peng Cheng, and Yi Luo. NewsBench: Systematic Evaluation of LLMs for Writing Proficiency and Safety Adherence in Chinese Journalistic Editorial Applications. Main conference of ACL 2024. [PDF](https://arxiv.org/abs/2403.00862)
-- ***Miao Li***, Eduard Hovy, and Jey Han Lau. Summarizing Multiple Documents with Conversational Structure for Meta-review Generation. Findings of EMNLP, 2023. [PDF](https://arxiv.org/abs/2305.01498)
-- Zhuohan Xie, ***Miao Li***, Trevor Cohn, and Jey Han Lau. DeltaScore: Fine-grained Story Evaluation with Perturbations. Findings of EMNLP, 2023. [PDF](https://arxiv.org/abs/2303.08991)
+- ***Miao Li***, Jey Han Lau, and Eduard Hovy. Exploring Multi-Document Information Consolidation for Scientific Sentiment Summarization. ACL 2024 (Main conference). [PDF](https://arxiv.org/abs/2402.18005)
+- ***Miao Li***, Ming-Bin Chen, Bo Tang, Shengbin Hou, Pengyu Wang, Haiying Deng, Zhiyu Li, Feiyu Xiong, Keming Mao, Peng Cheng, and Yi Luo. NewsBench: Systematic Evaluation of LLMs for Writing Proficiency and Safety Adherence in Chinese Journalistic Editorial Applications. ACL 2024 (Main conference). [PDF](https://arxiv.org/abs/2403.00862)
+- ***Miao Li***, Eduard Hovy, and Jey Han Lau. Summarizing Multiple Documents with Conversational Structure for Meta-review Generation. EMNLP 2023 (Findings). [PDF](https://arxiv.org/abs/2305.01498)
+- Zhuohan Xie, ***Miao Li***, Trevor Cohn, and Jey Han Lau. DeltaScore: Fine-grained Story Evaluation with Perturbations. EMNLP 2023 (Findings). [PDF](https://arxiv.org/abs/2303.08991)
 - ***Miao Li***, Jianzhong Qi, and Jey Han Lau. Compressed Heterogeneous Graph for Abstractive Multi-document Summarization. Oral. AAAI 2023. [PDF](https://arxiv.org/abs/2303.06565)
 - Mengxue Zhao, Yang Yang, ***Miao Li***, Jingang Wang, Wei Wu, Pengjie Ren, Maarten de Rijke and Zhaochun Ren. Personalized Abstractive Opinion Tagging. Oral. SIGIR 2022. [PDF](https://dl.acm.org/doi/10.1145/3477495.3532037)
 - Rui Zhang, Bayu Distiawan Trisedy, ***Miao Li***, Yong Jiang, Jianzhong Qi. A Benchmark and Comprehensive Survey on Knowledge Graph Entity Alignment via Representation Learning. VLDB Journal 2022. [PDF](https://link.springer.com/article/10.1007/s00778-022-00747-z)
