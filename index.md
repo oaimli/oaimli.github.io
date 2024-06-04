@@ -51,7 +51,6 @@ Throughout the years of pursuing the PhD degree, Miao's primary area of interest
 - Hongyin Tang, ***Miao Li***, Beihong Jin. A Topic Augmented Text Generation Model: Joint Learning of Semantics and Structural Features. Oral. EMNLP 2019. [PDF](https://www.aclweb.org/anthology/D19-1513/) / [Appendix](https://oaimli.github.io/files/paper_at_emnlp2019_appendix.pdf)
 - ***Miao Li***,  Hongyin Tang, Beihong Jin, Chengqing Zong. A New Effective Neural Variational Model with Mixture-of-Gaussians Prior for Text Clustering. Oral. ICTAI 2019. [PDF](https://oaimli.github.io/files/paper_at_ictai2019.pdf) 
 - ***Miao Li***, Hongyin Tang, Beihong Jin. Clustering Large-Scale Origin-Destination Pairs: A Case Study for Public Transit in Beijing. Oral. UIC 2018. [PDF](https://ieeexplore.ieee.org/document/8560115) 
-- Software copyright of an Android application designed for healthcare purposes (No. 2016SR133938). Granted by Chinese National Copyright Administration. June 2016.
 
 ### Honors and Awards
 
