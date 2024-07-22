@@ -61,7 +61,7 @@ Miao is interested in natural language processing (NLP) which aims to enable mac
 - The First Prize Scholarship, University of Chinese Academy of Sciences, October 2018
 - Excellent Student Cadre, University of Chinese Academy of Sciences, June 2018
 - Outstanding Graduate, Northeastern University, June 2017
-- Outstanding graduate thesis Award, Northeastern University, July 2017
+- Outstanding Graduate Thesis Award, Northeastern University, July 2017
 - The First Prize Scholarship, Northeastern University, September 2016
 - National Scholarship for Undergraduates, Education Ministry of China, October 2016
 - The First Prize Scholarship, Northeastern University, September 2015
