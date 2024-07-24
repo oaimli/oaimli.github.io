@@ -43,16 +43,16 @@ In the long term, Miao's overarching research goal is to (1) understand how huma
 
 ### Selected Publications
 
-- A Sentiment Consolidation Framework for Meta-Review Generation. [PDF](https://arxiv.org/abs/2402.18005) [ACL 2024] <br> ***Miao Li***, Jey Han Lau, and Eduard Hovy.
-- NewsBench: A Systematic Evaluation Framework for Assessing Editorial Capabilities of Large Language Models in Chinese Journalism. [PDF](https://arxiv.org/abs/2403.00862) [ACL 2024] <br> ***Miao Li***, Ming-Bin Chen, Bo Tang, Shengbin Hou, Pengyu Wang, Haiying Deng, Zhiyu Li, Feiyu Xiong, Keming Mao, Peng Cheng, and Yi Luo.
-- Summarizing Multiple Documents with Conversational Structure for Meta-Review Generation. [PDF](https://arxiv.org/abs/2305.01498) [EMNLP 2023] <br> ***Miao Li***, Eduard Hovy, and Jey Han Lau.
-- DeltaScore: Fine-grained Story Evaluation with Perturbations. [PDF](https://arxiv.org/abs/2303.08991) [EMNLP 2023] <br> Zhuohan Xie, ***Miao Li***, Trevor Cohn, and Jey Han Lau. 
-- Compressed Heterogeneous Graph for Abstractive Multi-Document Summarization. Oral. [PDF](https://arxiv.org/abs/2303.06565) [AAAI 2023] <br> ***Miao Li***, Jianzhong Qi, and Jey Han Lau.
-- Personalized Abstractive Opinion Tagging. Oral. [PDF](https://dl.acm.org/doi/10.1145/3477495.3532037) [SIGIR 2022] <br> Mengxue Zhao, Yang Yang, ***Miao Li***, Jingang Wang, Wei Wu, Pengjie Ren, Maarten de Rijke and Zhaochun Ren. 
-- A Benchmark and Comprehensive Survey on Knowledge Graph Entity Alignment via Representation Learning. [PDF](https://link.springer.com/article/10.1007/s00778-022-00747-z) [VLDB Journal 2022] <br> Rui Zhang, Bayu Distiawan Trisedy, ***Miao Li***, Yong Jiang, Jianzhong Qi.
-- A Topic Augmented Text Generation Model: Joint Learning of Semantics and Structural Features. Oral. [PDF](https://www.aclweb.org/anthology/D19-1513/) / [Appendix](https://oaimli.github.io/files/paper_at_emnlp2019_appendix.pdf) [EMNLP 2019] <br> Hongyin Tang, ***Miao Li***, Beihong Jin.
-- A New Effective Neural Variational Model with Mixture-of-Gaussians Prior for Text Clustering. Oral. [PDF](https://oaimli.github.io/files/paper_at_ictai2019.pdf) [ICTAI 2019] <br> ***Miao Li***,  Hongyin Tang, Beihong Jin, Chengqing Zong.
-- Clustering Large-Scale Origin-Destination Pairs: A Case Study for Public Transit in Beijing. Oral. [PDF](https://ieeexplore.ieee.org/document/8560115) [UIC 2018] <br> ***Miao Li***, Hongyin Tang, Beihong Jin. 
+- A Sentiment Consolidation Framework for Meta-Review Generation. [PDF](https://arxiv.org/abs/2402.18005) <br> ***Miao Li***, Jey Han Lau, and Eduard Hovy. <br> ACL 2024.
+- NewsBench: A Systematic Evaluation Framework for Assessing Editorial Capabilities of Large Language Models in Chinese Journalism. [PDF](https://arxiv.org/abs/2403.00862) <br> ***Miao Li***, Ming-Bin Chen, Bo Tang, Shengbin Hou, Pengyu Wang, Haiying Deng, Zhiyu Li, Feiyu Xiong, Keming Mao, Peng Cheng, and Yi Luo. <br> ACL 2024.
+- Summarizing Multiple Documents with Conversational Structure for Meta-Review Generation. [PDF](https://arxiv.org/abs/2305.01498) <br> ***Miao Li***, Eduard Hovy, and Jey Han Lau. <br> EMNLP 2023.
+- DeltaScore: Fine-grained Story Evaluation with Perturbations. [PDF](https://arxiv.org/abs/2303.08991) <br> Zhuohan Xie, ***Miao Li***, Trevor Cohn, and Jey Han Lau. <br> EMNLP 2023.
+- Compressed Heterogeneous Graph for Abstractive Multi-Document Summarization. Oral. [PDF](https://arxiv.org/abs/2303.06565) <br> ***Miao Li***, Jianzhong Qi, and Jey Han Lau. <br> AAAI 2023.
+- Personalized Abstractive Opinion Tagging. Oral. [PDF](https://dl.acm.org/doi/10.1145/3477495.3532037) <br> Mengxue Zhao, Yang Yang, ***Miao Li***, Jingang Wang, Wei Wu, Pengjie Ren, Maarten de Rijke and Zhaochun Ren. <br> SIGIR 2022.
+- A Benchmark and Comprehensive Survey on Knowledge Graph Entity Alignment via Representation Learning. [PDF](https://link.springer.com/article/10.1007/s00778-022-00747-z) <br> Rui Zhang, Bayu Distiawan Trisedy, ***Miao Li***, Yong Jiang, Jianzhong Qi. <br> VLDB Journal 2022.
+- A Topic Augmented Text Generation Model: Joint Learning of Semantics and Structural Features. Oral. [PDF](https://www.aclweb.org/anthology/D19-1513/) / [Appendix](https://oaimli.github.io/files/paper_at_emnlp2019_appendix.pdf) <br> Hongyin Tang, ***Miao Li***, Beihong Jin. <be> EMNLP 2019.
+- A New Effective Neural Variational Model with Mixture-of-Gaussians Prior for Text Clustering. Oral. [PDF](https://oaimli.github.io/files/paper_at_ictai2019.pdf) <br> ***Miao Li***,  Hongyin Tang, Beihong Jin, Chengqing Zong. <br> ICTAI 2019.
+- Clustering Large-Scale Origin-Destination Pairs: A Case Study for Public Transit in Beijing. Oral. [PDF](https://ieeexplore.ieee.org/document/8560115) <br> ***Miao Li***, Hongyin Tang, Beihong Jin. <br> UIC 2018.
 
 ### Honors and Awards
 
